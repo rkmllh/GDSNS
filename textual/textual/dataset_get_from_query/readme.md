@@ -1,0 +1,1 @@
+This folder contains dataset got by view of query (for query 1, 5 and 10).
