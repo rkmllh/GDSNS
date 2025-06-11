@@ -1,0 +1,1 @@
+.\shp2pgsql -s 4326 -I -W "UTF-8" .shp public.my_schema | .\psql -d db_name -U postgres

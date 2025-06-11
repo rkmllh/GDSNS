@@ -1,0 +1,2507 @@
+ranking,name,age,sector,gender,title,self_made,organization,country
+2,Elon Musk,51,Automotive,M,CEO,,Tesla,USA
+3,Jeff Bezos,59,Technology,M,Chairman and Founder,,Amazon,USA
+4,Larry Ellison,78,Technology,M,CTO and Founder,,Oracle,USA
+5,Warren Buffett,92,Finance & Investments,M,CEO,,Berkshire Hathaway Inc. (Cl A),USA
+6,Bill Gates,67,Technology,M,Cochair,,Bill & Melinda Gates Foundation,USA
+7,Michael Bloomberg,81,Media & Entertainment,M,CEO,,Bloomberg,USA
+8,Carlos Slim Helu & family,83,Telecom,M,Honorary Chairman,,América Móvil,MEX
+9,Mukesh Ambani,65,Diversified,M,Founder and Chairman,,Reliance Industries,IND
+10,Steve Ballmer,67,Technology,M,Owner,,Los Angeles Clippers,USA
+12,Larry Page,50,Technology,M,Cofounder and board member,,Alphabet,USA
+13,Amancio Ortega,87,Fashion & Retail,M,,,,ESP
+14,Sergey Brin,49,Technology,M,Cofounder and board member,,Alphabet,USA
+15,Zhong Shanshan,68,Food & Beverage,M,,,,CHN
+16,Mark Zuckerberg,38,Technology,M,Cofounder,,Meta Platforms,USA
+17,Charles Koch & family,87,Diversified,M,Chairman and CEO,,"Koch Industries, Inc.",USA
+17,Julia Koch & family,60,Diversified,F,,,,USA
+19,Jim Walton,74,Fashion & Retail,M,Chairman and CEO,,"Arvest Bank Group, Inc.",USA
+20,Rob Walton & family,78,Fashion & Retail,M,Director,,Walmart,USA
+21,Alice Walton,73,Fashion & Retail,F,Philanthropist,,Crystal Bridges Museum of American Art,USA
+22,David Thomson & family,65,Media & Entertainment,M,Chairman,,Thomson Reuters Corporation,CAN
+23,Michael Dell,58,Technology,M,Chairman and CEO,,Dell Inc.,USA
+24,Gautam Adani,60,Diversified,M,,,,IND
+25,Phil Knight & family,85,Fashion & Retail,M,Chairman,,Nike,USA
+26,Zhang Yiming,39,Technology,M,Founder,,ByteDance,CHN
+27,Dieter Schwarz,83,Fashion & Retail,M,,,,DEU
+29,Klaus-Michael Kuehne,85,Logistics,M,,,,CHE
+30,Giovanni Ferrero,58,Food & Beverage,M,,,,BEL
+31,Jacqueline Mars,83,Food & Beverage,F,,,,USA
+31,John Mars,87,Food & Beverage,M,,,,USA
+33,Li Ka-shing,94,Diversified,M,Senior Advisor,,CK Hutchison Holdings,HKG
+34,Ma Huateng,51,Technology,M,Chairman and CEO,,Tencent Holdings,CHN
+35,Miriam Adelson & family,77,Gambling & Casinos,F,,,,USA
+35,Ken Griffin,54,Finance & Investments,M,Founder & CEO,,Citadel LLC,USA
+37,Mark Mateschitz,30,Food & Beverage,M,,,,AUT
+38,Robin Zeng,54,Automotive,M,,,,CHN
+39,Tadashi Yanai & family,74,Fashion & Retail,M,,,,JPN
+40,Len Blavatnik,65,Diversified,M,,,,GBR
+41,Alain Wertheimer,74,Fashion & Retail,M,,,,USA
+41,Gerard Wertheimer,72,Fashion & Retail,M,,,,USA
+43,Gianluigi Aponte,82,Logistics,M,,,,CHE
+43,Rafaela Aponte-Diamant,78,Logistics,F,,,,CHE
+45,Colin Zheng Huang,43,Technology,M,,,,CHN
+46,Reinhold Wuerth & family,87,Manufacturing,M,,,,DEU
+47,Lee Shau Kee,95,Real Estate,M,,,,HKG
+48,Jeff Yass,64,Finance & Investments,M,,,,USA
+49,Jim Simons,84,Finance & Investments,M,Founder,,Renaissance Technologies Corp.,USA
+50,Stephen Schwarzman,76,Finance & Investments,M,Chairman and CEO,,Blackstone Group,USA
+51,Susanne Klatten,60,Automotive,F,,,,DEU
+52,Gina Rinehart,69,Metals & Mining,F,Executive Chairman,,Hancock Prospecting,AUS
+53,William Ding,51,Technology,M,,,,CHN
+54,Germán Larrea Mota Velasco & family,69,Metals & Mining,M,,,,MEX
+55,Shiv Nadar,77,Technology,M,,,,IND
+56,Low Tuck Kwong,74,Energy,M,,,,IDN
+57,Thomas Peterffy,78,Finance & Investments,M,,,,USA
+58,Andrey Melnichenko & family,51,Metals & Mining,M,,,,ARE
+59,Stefan Quandt,56,Automotive,M,,,,DEU
+60,MacKenzie Scott,52,Technology,F,Philanthropist,,,USA
+61,R. Budi Hartono,82,Finance & Investments,M,,,,IDN
+62,Vladimir Potanin,62,Metals & Mining,M,,,,RUS
+63,Jack Ma,58,Technology,M,,,,CHN
+64,He Xiangjian & family,80,Manufacturing,M,,,,CHN
+65,Iris Fontbona & family,80,Metals & Mining,F,,,,CHL
+65,Michael Hartono,83,Manufacturing,M,,,,IDN
+67,James Ratcliffe,70,Manufacturing,M,,,,GBR
+68,Cyrus Poonawalla,81,Healthcare,M,,,,IND
+69,Masayoshi Son,65,Telecom,M,CEO,,SoftBank Group Corp.,JPN
+70,Vladimir Lisin,66,Metals & Mining,M,,,,RUS
+72,Abigail Johnson,61,Finance & Investments,F,CEO,,Fidelity Investments,USA
+72,Leonid Mikhelson & family,67,Energy,M,,,,RUS
+74,Lukas Walton,36,Fashion & Retail,M,,,,USA
+74,Wang Wei,52,Service,M,,,,CHN
+76,Jensen Huang,60,Technology,M,CEO & President,,Nvidia,USA
+77,Leonard Lauder,90,Fashion & Retail,M,Chairman Emeritus,,The Estée Lauder Companies,USA
+77,Takemitsu Takizaki,77,Manufacturing,M,,,,JPN
+79,Alexey Mordashov & family,57,Metals & Mining,M,,,,RUS
+80,Vagit Alekperov,72,Energy,M,,,,RUS
+81,"Thomas Frist, Jr. & family",84,Healthcare,M,,,,USA
+82,Andrew Forrest,61,Metals & Mining,M,,,,AUS
+83,Ray Dalio,73,Finance & Investments,M,Founder & Co-Chief Investment Officer,,Bridgewater Associates,USA
+84,Eric Li,59,Automotive,M,,,,CHN
+84,Wang Wenyin,55,Metals & Mining,M,,,,CHN
+86,Eyal Ofer,72,Diversified,M,,,,MCO
+86,Qin Yinglin,57,Food & Beverage,M,,,,CHN
+88,Wang Chuanfu,57,Automotive,M,,,,CHN
+89,Harold Hamm & family,77,Energy,M,Chairman and CEO,,Continental Resources Inc. ,USA
+89,David Tepper,65,Finance & Investments,M,President and Founder,,Appaloosa Management,USA
+89,Gennady Timchenko,70,Energy,M,,,,RUS
+92,Daniel Gilbert,61,Finance & Investments,M,,,,USA
+93,Lakshmi Mittal,72,Metals & Mining,M,Chairman and CEO,,ArcelorMittal (ADR),GBR
+94,Steve Cohen,66,Finance & Investments,M,Founder,,Point72 Asset Management,USA
+94,Carl Icahn,87,Finance & Investments,M,Founder,,Icahn Capital Management,USA
+94,Savitri Jindal & family,73,Metals & Mining,F,,,,IND
+97,Donald Bren,90,Real Estate,M,Chairman,,Irvine Company,USA
+97,"John Menard, Jr.",83,Fashion & Retail,M,Founder,,"Menard, Inc.",USA
+99,Rupert Murdoch & family,92,Media & Entertainment,M,Chairman and CEO,,News Corp Class A,USA
+100,Vicky Safra & family,70,Finance & Investments,F,,,,CHE
+101,"Theo Albrecht, Jr. & family",72,Fashion & Retail,M,,,,DEU
+101,Renata Kellnerova & family,55,Finance & Investments,F,,,,CZE
+103,Li Xiting,72,Healthcare,M,,,,CHN
+104,Stefan Persson,75,Fashion & Retail,M,Chairman,,Hennes & Mauritz Unsponsored ADR,SWE
+104,Eric Schmidt,67,Technology,M,,,,USA
+106,Michael Platt,55,Finance & Investments,M,Founder ,,BlueCrest Capital Management,CHE
+107,Pang Kang,67,Food & Beverage,M,,,,CHN
+108,Jorge Paulo Lemann & family,83,Food & Beverage,M,"Investor, Philanthropist",,,CHE
+108,Peter Woo,76,Real Estate,M,,,,HKG
+112,Dilip Shanghvi,67,Healthcare,M,,,,IND
+113,Robert Pera,45,Technology,M,Chief Executive Officer,,Ubiquiti,USA
+114,Radhakishan Damani,68,Fashion & Retail,M,,,,IND
+115,Huang Shilin,56,Automotive,M,,,,CHN
+116,Dhanin Chearavanont,83,Diversified,M,,,,THA
+116,David Green & family,81,Fashion & Retail,M,CEO,,Hobby Lobby,USA
+118,Charoen Sirivadhanabhakdi,78,Food & Beverage,M,,,,THA
+119,Charlene de Carvalho-Heineken & family,68,Food & Beverage,F,,,,GBR
+120,Xu Hang,60,Healthcare,M,,,,CHN
+121,Wei Jianjun & family,59,Automotive,M,,,,CHN
+122,Alisher Usmanov,69,Metals & Mining,M,Founder,,Metalloinvest,UZB
+123,Goh Cheng Liang,95,Manufacturing,M,,,,SGP
+124,Kumar Birla,55,Diversified,M,,,,IND
+124,Aliko Dangote,65,Manufacturing,M,CEO,,Dangote Group,NGA
+126,Kwong Siu-hing,93,Real Estate,F,,,,HKG
+127,Idan Ofer,67,Diversified,M,,,,GBR
+128,Chen Bang,57,Healthcare,M,,,,CHN
+128,Lui Che Woo,94,Gambling & Casinos,M,,,,HKG
+130,John Fredriksen,78,Logistics,M,Investor,,,GBR
+130,Diane Hendricks,76,Construction & Engineering,F,Cofounder,,ABC Supply,USA
+130,Jan Koum,47,Technology,M,"CEO, cofounder",,WhatsApp Inc.,USA
+133,Jerry Jones,80,Sports,M,President and General Manager,,Dallas Cowboys,USA
+133,George Kaiser,80,Energy,M,Chairman,,BOK Financial Corp.,USA
+133,Joseph Lau,71,Real Estate,M,,,,HKG
+136,Lu Xiangyang,60,Automotive,M,,,,CHN
+137,Harry Triguboff,90,Real Estate,M,,,,AUS
+138,Uday Kotak,64,Finance & Investments,M,,,,IND
+138,Stanley Kroenke,75,Sports,M,,,,USA
+140,Mikhail Fridman,58,Energy,M,,,,GBR
+141,Sarath Ratanavadi,57,Energy,M,,,,THA
+142,Dang Yanbao,50,Metals & Mining,M,,,,CHN
+142,Jiang Rensheng & family,69,Healthcare,M,,,,CHN
+144,Shahid Khan,72,Automotive,M,,,,USA
+145,Laurene Powell Jobs & family,59,Technology,F,"Investor, Philanthropist",,Emerson Collective,USA
+146,Robert Kuok,99,Diversified,M,,,,HKG
+147,Stephen Ross,82,Real Estate,M,,,,USA
+148,Pavel Durov,38,Technology,M,,,,ARE
+148,Andreas Struengmann & family,73,Healthcare,M,,,,DEU
+148,Thomas Struengmann & family,73,Healthcare,M,,,,DEU
+151,Liu Hanyuan,59,Food & Beverage,M,,,,CHN
+151,Michael Rubin,50,Fashion & Retail,M,CEO,,Kynetic,USA
+153,Israel Englander,74,Finance & Investments,M,Founder,,"Millennium Management, L.L.C.",USA
+153,Viatcheslav Kantor,69,Manufacturing,M,,,,ISR
+153,Anthony Pratt,62,Manufacturing,M,,,,AUS
+153,Mikhail Prokhorov,57,Finance & Investments,M,,,,CHE
+157,Giorgio Armani,88,Fashion & Retail,M,,,,ITA
+157,Johann Rupert & family,72,Fashion & Retail,M,,,,ZAF
+159,Gong Hongjia & family,58,Finance & Investments,M,,,,HKG
+159,Zhang Zhidong,51,Technology,M,,,,CHN
+161,Philip Anschutz,83,Finance & Investments,M,,,,USA
+161,Judy Love & family,85,Fashion & Retail,F,Chairman and CEO,,Love's Travel Stops and Country Stores,USA
+161,Ricardo Salinas Pliego & family,67,Fashion & Retail,M,,,,MEX
+164,Donald Newhouse,93,Media & Entertainment,M,,,,USA
+165,Robert Kraft,81,Sports,M,Chairman & CEO,,The Kraft Group,USA
+165,Marcel Herrmann Telles,73,Food & Beverage,M,,,,BRA
+167,Suleiman Kerimov & family,57,Finance & Investments,M,,,,RUS
+167,Sky Xu,39,Fashion & Retail,M,,,,CHN
+167,Changpeng Zhao,45,Finance & Investments,M,,,,ARE
+170,Andrew Beal,70,Finance & Investments,M,,,,USA
+171,Mike Cannon-Brookes,43,Technology,M,,,,AUS
+171,Carl Cook,60,Healthcare,M,,,,USA
+171,David Duffield,82,Technology,M,Chairman and Cofounder,,Workday,USA
+171,Jeffery Hildebrand,64,Energy,M,,,,USA
+171,Viktor Rashnikov,74,Manufacturing,M,,,,RUS
+171,Eduardo Saverin,41,Technology,M,Investor,,Meta Platforms,SGP
+171,Georg Schaeffler,58,Automotive,M,,,,DEU
+171,Christy Walton,74,Fashion & Retail,F,,,,USA
+179,Scott Farquhar,43,Technology,M,,,,AUS
+179,Quek Leng Chan,81,Diversified,M,,,,MYS
+179,Wu Yajun,59,Real Estate,F,,,,CHN
+182,Autry Stephens,85,Energy,M,,,,USA
+183,Liu Yongxing,74,Service,M,Chairman,,East Hope Group,CHN
+184,Vinod Adani,74,Diversified,M,,,,ARE
+184,Nicolas Puech,80,Fashion & Retail,M,,,,CHE
+184,Melker Schorling & family,75,Finance & Investments,M,,,,SWE
+190,Andrei Guriev & family,63,Manufacturing,M,,,,RUS
+190,Michael Kim,59,Finance & Investments,M,,,MBK Partners,KOR
+190,Lei Jun,53,Technology,M,Founder and CEO,,Xiaomi,CHN
+190,Friedhelm Loh,76,Manufacturing,M,,,,DEU
+190,Sun Piaoyang,64,Healthcare,M,,,,CHN
+195,Rick Cohen & family,70,Technology,M,Entrepreneur,,C&S Wholesale Grocers,USA
+195,Jin Baofang,70,Energy,M,,,,CHN
+195,Luo Liguo & family,67,Manufacturing,M,,,,CHN
+195,Marijke Mars,58,Food & Beverage,F,,,,USA
+195,Pamela Mars,62,Food & Beverage,F,,,,USA
+195,Valerie Mars,64,Food & Beverage,F,,,,USA
+195,Victoria Mars,66,Food & Beverage,F,,,,USA
+202,Jim Pattison,94,Diversified,M,"Founder, Chairman and CEO",,Jim Pattison Group,CAN
+204,Ernesto Bertarelli,57,Healthcare,M,,,,CHE
+204,Wang Xing,44,Technology,M,,,,CHN
+206,Brian Chesky,41,Technology,M,CEO and Cofounder,,"Airbnb, Inc.",USA
+206,James Dyson,75,Manufacturing,M,,,,GBR
+208,Roman Abramovich & family,56,Diversified,M,,,,RUS
+208,Antonia Ax:son Johnson & family,79,Diversified,F,,,,SWE
+208,Daniel Kretinsky,47,Energy,M,,,,CZE
+208,John Malone,82,Media & Entertainment,M,,,,USA
+208,Azim Premji,77,Technology,M,Founder Chairman,,Wipro Ltd.,IND
+208,Charles Schwab,85,Finance & Investments,M,Investor,,Charles Schwab Corp.,USA
+208,Eric Smidt,63,Fashion & Retail,M,,,,USA
+215,David Cheriton,72,Technology,M,Professor,,Stanford University,USA
+215,Ivan Glasenberg,66,Metals & Mining,M,,,,CHE
+215,Alexander Otto,55,Real Estate,M,,,,DEU
+215,Anthony von Mandl,73,Food & Beverage,M,,,,CAN
+215,Wang Liping & family,57,Manufacturing,M,,,,CHN
+220,Finn Rausing,68,Food & Beverage,M,,,,GBR
+220,Jorn Rausing,63,Food & Beverage,M,,,,GBR
+220,Kirsten Rausing,70,Food & Beverage,F,,,,GBR
+223,Tatyana Bakalchuk,47,Fashion & Retail,F,,,,RUS
+223,John Doerr,71,Technology,M,Investor,,Kleiner Perkins,USA
+223,Richard Liu,49,Technology,M,,,,CHN
+223,Dustin Moskovitz,38,Technology,M,Cofounder,,Asana,USA
+223,Pierre Omidyar,55,Technology,M,Founder,,eBay,USA
+223,Pei Zhenhua,64,Energy,M,,,,CHN
+223,Carrie Perrodo & family,72,Energy,F,Philanthropist,,,GBR
+230,Chen Jianhua,52,Manufacturing,M,,,,CHN
+230,Michael Otto,79,Fashion & Retail,M,,,,DEU
+232,Leon Black,71,Finance & Investments,M,,,,USA
+232,Graeme Hart,67,Finance & Investments,M,,,,NZL
+232,Ravi Jaipuria,68,Food & Beverage,M,,,,IND
+232,Hasso Plattner & family,79,Technology,M,,,,DEU
+232,Carlos Alberto Sicupira & family,75,Food & Beverage,M,,,,CHE
+232,Manuel Villar,73,Real Estate,M,,,,PHL
+232,Andreas von Bechtolsheim & family,67,Technology,M,"Cofounder, Chief Development Officer and Chairman",,Arista Networks,USA
+239,"Chase Coleman, III.",47,Finance & Investments,M,Investor,,Tiger Global Management,USA
+239,Ann Walton Kroenke,74,Fashion & Retail,F,,,,USA
+239,Li Zhenguo & family,55,Manufacturing,M,,,,CHN
+242,Jim Kennedy,75,Media & Entertainment,M,Chairman Emeritus,,Cox Enterprises,USA
+242,Nicky Oppenheimer & family,77,Metals & Mining,M,,,,ZAF
+242,Blair Parry-Okeden,72,Media & Entertainment,F,,,,AUS
+242,Zheng Shuliang & family,77,Metals & Mining,F,,,,CHN
+246,John Morris,75,Fashion & Retail,M,,,,USA
+246,Stefano Pessina,81,Fashion & Retail,M,,,,MCO
+249,Francis Choi,75,Real Estate,M,,,,HKG
+249,German Khan,61,Energy,M,,,,RUS
+249,Abdulsamad Rabiu,62,Diversified,M,,,,NGA
+249,George Roberts,79,Finance & Investments,M,,,,USA
+249,Kushal Pal Singh,91,Real Estate,M,,,,IND
+249,Wang Jianlin,68,Real Estate,M,Chairman,,Dalian Wanda Group,CHN
+249,Yang Huiyan & family,41,Real Estate,F,,,,CHN
+256,Tilman Fertitta,65,Food & Beverage,M,Chairman and CEO,,Landry's Inc,USA
+256,Karel Komarek,54,Gambling & Casinos,M,,,,CHE
+261,Nathan Blecharczyk,39,Technology,M,,,,USA
+261,Leonid Fedun,66,Energy,M,,,,RUS
+261,Bernard Marcus,93,Fashion & Retail,M,"Co-founder, ex chairman of the board",,Home Depot,USA
+261,Patrick Ryan,85,Finance & Investments,M,Chairman and CEO,,Ryan Specialty Group,USA
+261,Robert F. Smith,60,Finance & Investments,M,Investor,,,USA
+261,Pavel Tykac,58,Metals & Mining,M,,,,CZE
+261,Eric Wittouck,76,Finance & Investments,M,,,,MCO
+268,Orlando Bravo,52,Finance & Investments,M,,,,USA
+268,Ding Shizhong,52,Fashion & Retail,M,,,,CHN
+268,Nancy Walton Laurie,71,Fashion & Retail,F,,,,USA
+268,Jay Y. Lee,54,Technology,M,,,,KOR
+268,Ramzi Musallam,54,Finance & Investments,M,,,,USA
+268,David Shaw,72,Finance & Investments,M,Founder,,"D. E. Shaw & Co., L.P.",USA
+268,Andrei Skoch & family,57,Metals & Mining,M,,,,RUS
+268,Georg Stumpf,50,Diversified,M,,,,AUT
+276,Rocco Commisso,73,Telecom,M,,,,USA
+276,Li Shuirong & family,66,Manufacturing,M,,,,CHN
+276,Lin Shu-hong,94,Manufacturing,M,,,,TWN
+276,Qi Shi & family,53,Technology,M,,,,CHN
+276,Yao Liangsong,58,Manufacturing,M,,,,CHN
+276,Zhang Congyuan,75,Fashion & Retail,M,,,,TWN
+282,David Geffen,80,Media & Entertainment,M,Cofounder,,DreamWorks Animation SKG Inc. (Cl A),USA
+282,Robin Li,54,Technology,M,Founder and CEO,,Baidu,CHN
+282,Liu Yonghao & family,71,Service,M,,,,CHN
+282,Henry Samueli,68,Technology,M,"Cofounder, Chief Technology Officer and Chairman",,Broadcom,USA
+282,Reinhold Schmieding,68,Healthcare,M,,,,USA
+290,Cao Renxian,54,Energy,M,,,,CHN
+290,Hasmukh Chudgar & family,89,Healthcare,M,,,,IND
+290,Andrew Currie,67,Manufacturing,M,,,,GBR
+290,Joe Gebbia,41,Technology,M,Cofounder & Chair of Airbnb.org,,"Airbnb, Inc.",USA
+290,Philip Ng,64,Real Estate,M,,,,SGP
+290,John Reece,66,Manufacturing,M,,,,GBR
+290,Leonard Stern,85,Real Estate,M,Chairman and CEO,,"Hartz Mountain Industries, Inc.",USA
+290,Joseph Tsai,59,Technology,M,,,,HKG
+290,Zhong Huijuan,62,Healthcare,F,,,,CHN
+299,Arthur Blank,80,Sports,M,Chairman,,Atlanta Falcons,USA
+299,Charles Butt,85,Fashion & Retail,M,,,,USA
+299,Ding Shijia,59,Fashion & Retail,M,,,,CHN
+299,"Paul Tudor Jones, II.",68,Finance & Investments,M,Founder,,Tudor Investment Corporation,USA
+299,Henry Kravis,79,Finance & Investments,M,Co-Chair and Co-CEO,,KKR & Co.,USA
+299,Zhang Yong,52,Food & Beverage,M,,,,SGP
+305,James Goodnight,80,Technology,M,CEO,,SAS Institute,USA
+305,Sri Prakash Lohia,70,Manufacturing,M,,,,GBR
+305,Ma Jianrong,59,Fashion & Retail,M,,,,CHN
+305,Robert Ng,71,Real Estate,M,,,,SGP
+305,Steven Rales,72,Manufacturing,M,Investor,,Danaher,USA
+305,Nassef Sawiris,62,Construction & Engineering,M,,,,EGY
+305,Harry Stine,81,Food & Beverage,M,,,,USA
+312,Benu Gopal Bangur,91,Manufacturing,M,,,,IND
+312,Iskander Makhmudov,59,Metals & Mining,M,,,,RUS
+312,Anders Holch Povlsen,50,Fashion & Retail,M,,,,DNK
+312,Enrique Razon Jr.,63,Logistics,M,,,,PHL
+312,Wang Laichun,55,Technology,F,,,,CHN
+317,Arthur Dantchik,65,Finance & Investments,M,,,,USA
+317,Terry Gou,72,Technology,M,CEO,,Hon Hai Precision Industries,TWN
+317,Jeff Greene,68,Real Estate,M,,,,USA
+317,Don Hankey,79,Finance & Investments,M,Chairman,,Hankey Group,USA
+317,Richard Kinder,78,Energy,M,Chairman and CEO,,Kinder Morgan Inc,USA
+317,Guillaume Pousaz,41,Finance & Investments,M,,,,ARE
+317,Takahisa Takahara,61,Fashion & Retail,M,,,,JPN
+317,Zong Qinghou,77,Food & Beverage,M,Chairman,,Hangzhou Wahaha Group,CHN
+325,Judy Faulkner,79,Technology,F,Founder and CEO,,Epic Systems,USA
+325,Johann Graf,76,Gambling & Casinos,M,,,,AUT
+325,Tamara Gustavson,61,Service,F,,,,USA
+325,Liang Wengen,66,Manufacturing,M,,,,CHN
+325,Frederik Paulsen,72,Healthcare,M,,,,CHE
+325,Wee Cho Yaw,94,Finance & Investments,M,,,,SGP
+325,Zhang Hejun,71,Manufacturing,M,,,,CHN
+332,Marc Benioff,58,Technology,M,Chairman and CEO,,Salesforce.com,USA
+332,Dmitri Bukhman,37,Media & Entertainment,M,,,,GBR
+332,Igor Bukhman,41,Media & Entertainment,M,,,,GBR
+332,Jack Dangermond,77,Technology,M,,,,USA
+332,Ashwin Dani & family,80,Manufacturing,M,,,,IND
+332,Ralph Lauren,83,Fashion & Retail,M,Chairman ,,Ralph Lauren,USA
+332,Law Kar Po,74,Real Estate,M,,,,HKG
+332,Rohiqa Cyrus Mistry,55,Diversified,F,,,,IND
+332,Shapoor Mistry,58,Diversified,M,,,,IND
+332,J. Christopher Reyes,69,Food & Beverage,M,Co-Chairman,,"Reyes Holdings, LLC",USA
+332,Jude Reyes,67,Food & Beverage,M,Co-Chairman,,"Reyes Holdings, LLC",USA
+332,Don Vultaggio & family,71,Food & Beverage,M,,,,USA
+344,Alejandro Bailleres Gual & family,62,Diversified,M,,,,MEX
+344,Edythe Broad & family,87,Diversified,F,,,,USA
+344,Pauline MacMillan Keinath,89,Food & Beverage,F,,,,USA
+344,Philippe Laffont,55,Finance & Investments,M,Founder,,Coatue Management,USA
+344,Liu Jincheng & family,58,Technology,M,,,,CHN
+344,Igor Olenicoff,80,Real Estate,M,,,,USA
+344,Sandra Ortega Mera,54,Fashion & Retail,F,,,,ESP
+344,Ronda Stryker,68,Healthcare,F,,,,USA
+352,Dannine Avara,59,Energy,F,,,,USA
+352,Silvio Berlusconi & family,86,Diversified,M,,,,ITA
+352,Denise Coates,55,Gambling & Casinos,F,,,,GBR
+352,Scott Duncan,40,Energy,M,,,,USA
+352,Milane Frantz,53,Energy,F,,,,USA
+352,"Edward Johnson, IV.",58,Finance & Investments,M,,,,USA
+352,Yuri Milner,61,Finance & Investments,M,Investor,,DST Global,USA
+352,Gordon Moore,94,Technology,M,Cofounder and Chairman Emeritus,,Intel Corp.,USA
+352,John Overdeck,53,Finance & Investments,M,Investor,,Two Sigma,USA
+352,David Siegel,61,Finance & Investments,M,Investor,,Two Sigma,USA
+352,Viktor Vekselberg,65,Diversified,M,,,,RUS
+352,Wang Laisheng,58,Technology,M,,,,CHN
+352,Randa Duncan Williams,61,Energy,F,Non-Executive Chairman of the Board,,Enterprise GP Holdings,USA
+365,Ken Fisher,72,Finance & Investments,M,,,,USA
+365,Christopher Hohn,56,Finance & Investments,M,Investor,,The Children's Investment Fund Management,GBR
+365,Kjeld Kirk Kristiansen,75,Manufacturing,M,,,,DNK
+365,Sofie Kirk Kristiansen,47,Manufacturing,F,,,,DNK
+365,Thomas Kirk Kristiansen,44,Manufacturing,M,,,,DNK
+365,Massimiliana Landini Aleotti & family,80,Healthcare,F,,,,ITA
+365,Li Ping,55,Automotive,M,,,,CHN
+365,Lin Jianhua,60,Manufacturing,M,,,,CHN
+365,Magdalena Martullo-Blocher,54,Manufacturing,F,,,,CHE
+365,Terrence Pegula,72,Energy,M,Owner,,Buffalo Sabres,USA
+365,"Edward Roski, Jr.",84,Real Estate,M,President and Chairman,,"Majestic Realty, Co.",USA
+365,John A. Sobrato & family,83,Real Estate,M,Founder and Chairman,,Sobrato Development Cos.,USA
+365,George Soros,92,Finance & Investments,M,Founder,,Soros Fund Management LLC,USA
+365,David Sun,71,Technology,M,COO,,Kingston Technology Corporation,USA
+365,Agnete Kirk Thinggaard,39,Manufacturing,F,,,,DNK
+365,John Tu,81,Technology,M,President,,Kingston Technology Corporation,USA
+365,Xu Shihui,65,Food & Beverage,M,,,,CHN
+383,Rahel Blocher,47,Manufacturing,F,,,,CHE
+383,Bubba Cathy,68,Food & Beverage,M,,,,USA
+383,Dan Cathy,70,Food & Beverage,M,,,,USA
+383,Trudy Cathy White,67,Food & Beverage,F,,,,USA
+383,Bruce Kovner,78,Finance & Investments,M,Founder,,Caxton Associates LP,USA
+383,"Henry Nicholas, III.",63,Technology,M,Cofounder,,Broadcom,USA
+383,Nadia Thiele,47,Finance & Investments,F,,,,DEU
+390,David Bonderman,80,Finance & Investments,M,,,,USA
+390,Melinda French Gates,58,Technology,F,Cochair,,Bill & Melinda Gates Foundation,USA
+390,Nathan Kirsh,91,Fashion & Retail,M,,,,SWZ
+390,Annette Lerner & family,93,Real Estate,F,,,,USA
+390,David Reuben,84,Real Estate,M,,,,GBR
+390,Simon Reuben,81,Diversified,M,,,,MCO
+390,Radovan Vitek,51,Real Estate,M,,,,CHE
+397,Carl Bennet,71,Finance & Investments,M,,,,SWE
+397,Stephen Bisciotti,62,Sports,M,Owner,,Baltimore Ravens,USA
+397,Stanley Druckenmiller,69,Finance & Investments,M,Founder,,Duquesne Family Office,USA
+397,Jian Jun,59,Healthcare,F,,,,CHN
+397,Dmitry Rybolovlev & family,56,Manufacturing,M,,,,MCO
+397,Luis Carlos Sarmiento,90,Finance & Investments,M,,,,COL
+397,Dennis Washington,88,Logistics,M,,,,USA
+405,Anthony Bamford & family,77,Construction & Engineering,M,,,,GBR
+405,Gao Jifan & family,58,Energy,M,,,,CHN
+405,John Grayken,66,Finance & Investments,M,Investor,,,GBR
+405,Wang Yusuo & family,59,Energy,M,,,,CHN
+405,Stef Wertheimer & family,96,Manufacturing,M,,,,ISR
+411,Maria Asuncion Aramburuzabala & family,59,Food & Beverage,F,,,,MEX
+411,Gustaf Douglas,85,Diversified,M,,,,SWE
+411,Frits Goldschmeding,89,Service,M,,,,NLD
+411,Lin Muqin & family,59,Food & Beverage,M,,,,CHN
+411,Ruan Liping,59,Manufacturing,M,,,,CHN
+411,Ruan Xueping,51,Manufacturing,M,,,,CHN
+411,Michal Solowow,60,Finance & Investments,M,,,,POL
+418,Mike Adenuga,69,Diversified,M,,,,NGA
+418,Tom Gores,58,Finance & Investments,M,,,,USA
+418,Michael Herz,79,Fashion & Retail,M,,,,DEU
+418,Wolfgang Herz,72,Fashion & Retail,M,,,,DEU
+418,Michael Kadoorie,81,Energy,M,,,,HKG
+418,Zhou Qunfei,53,Technology,F,Founder and CEO,,Lens Technology,HKG
+425,Alexander Abramov,64,Metals & Mining,M,,,,RUS
+425,Rene Benko,46,Real Estate,M,,,,AUT
+425,Neil Bluhm,85,Real Estate,M,,,,USA
+425,Alain Bouchard,74,Fashion & Retail,M,Chairman and CEO,,Alimentation Couche Tard Inc. Cl A,CAN
+425,Jay Chaudhry,63,Technology,M,,,,USA
+425,Gopikishan Damani,65,Fashion & Retail,M,,,,IND
+425,Sumet Jiaravanon,88,Diversified,M,,,,THA
+425,Joe Lewis,86,Finance & Investments,M,,,,BHS
+425,Frank Lowy,92,Finance & Investments,M,,,,ISR
+425,Michael Milken,76,Finance & Investments,M,,,,USA
+425,David Steward,71,Technology,M,,,,USA
+425,Les Wexner & family,85,Fashion & Retail,M,,,,USA
+437,Cai Kui,60,Real Estate,M,,,,CHN
+437,Jaran Chiaravanont,93,Diversified,M,,,,THA
+437,Andreas Halvorsen,61,Finance & Investments,M,Investor,,Viking Global Investors,USA
+437,Antony Ressler,62,Finance & Investments,M,,,,USA
+437,Tsai Eng-meng,66,Food & Beverage,M,,,,CHN
+442,Josh Harris,58,Finance & Investments,M,,,,USA
+442,Niels Peter Louis-Hansen,75,Healthcare,M,,,,DNK
+442,Patrick Soon-Shiong,70,Healthcare,M,,,,USA
+445,Rinat Akhmetov,56,Metals & Mining,M,,,,UKR
+445,John Brown,88,Healthcare,M,,,,USA
+445,Clive Calder,76,Media & Entertainment,M,,,,CYM
+445,Arthur Irving,93,Energy,M,,,,CAN
+445,Fredrik Lundberg,71,Real Estate,M,,,,SWE
+445,Thomas Schmidheiny,77,Construction & Engineering,M,,,,CHE
+445,Helmut Sohmen,83,Logistics,M,,,,HKG
+445,Daniel Ziff,51,Finance & Investments,M,,,,USA
+445,Dirk Ziff,59,Finance & Investments,M,,,,USA
+445,Robert Ziff,56,Finance & Investments,M,,,,USA
+455,Maria Angelicoussis,41,Logistics,F,,,,GRC
+455,Ray Lee Hunt,79,Energy,M,,,,USA
+455,Lai Meisong,52,Logistics,M,,,,CHN
+455,Vikram Lal & family,81,Automotive,M,,,,IND
+455,Ken Langone,87,Finance & Investments,M,,,,USA
+455,Li Ge,56,Healthcare,M,,,,CHN
+455,Karen Pritzker,65,Finance & Investments,F,,,,USA
+455,Robert Rowling,69,Service,M,,,,USA
+455,Teddy Sagi,51,Gambling & Casinos,M,,,,ISR
+455,Seo Jung-jin,65,Healthcare,M,,,Celltrion Inc.,KOR
+455,Wu Jianshu,59,Automotive,M,,,,CHN
+466,Micky Arison,73,Service,M,Chairman and CEO,,Carnival Corp.,USA
+466,James Chambers,65,Media & Entertainment,M,,,,USA
+466,Pierre Chen,66,Technology,M,,,,TWN
+466,John Collison,32,Technology,M,Cofounder,,Stripe,USA
+466,Patrick Collison,34,Technology,M,Cofounder,,Stripe,USA
+466,Archie Aldis Emmerson & family,93,Manufacturing,M,,,,USA
+466,Piero Ferrari,77,Automotive,M,,,,ITA
+466,Dan Friedkin,58,Automotive,M,owner and ceo,,Gulf States Toyota,USA
+466,James Irving,95,Diversified,M,,,,CAN
+466,Jiang Weiping & family,68,Manufacturing,M,,,,CHN
+466,Wolfgang Marguerre & family,81,Healthcare,M,,,,DEU
+466,Ludwig Merckle,58,Finance & Investments,M,,,,DEU
+466,Mitchell Rales,66,Manufacturing,M,,,,USA
+466,Katharine Rayner,78,Media & Entertainment,F,,,,USA
+466,Jean Salata,57,Finance & Investments,M,,,,HKG
+466,Paul Singer,78,Finance & Investments,M,Investor,,Elliott Management,USA
+466,Sergio Stevanato & family,80,Healthcare,M,,,,ITA
+466,Margaretta Taylor,80,Media & Entertainment,F,,,,USA
+466,Richard White,68,Technology,M,,,,AUS
+466,Zhao Yan,56,Diversified,F,,,,CHN
+486,Patrizio Bertelli,77,Fashion & Retail,M,,,,ITA
+486,Mahendra Choksi & family,81,Manufacturing,M,,,,IND
+486,Mat Ishbia,43,Finance & Investments,M,,,,USA
+486,Leo Koguan,68,Technology,M,,,,SGP
+486,Miao Hangen,58,Diversified,M,,,,CHN
+486,Michael Pieper,77,Manufacturing,M,CEO of Artemis Group,,Artemis Real Estate Partners,CHE
+486,Miuccia Prada,73,Fashion & Retail,F,"CEO, Fashion Designer",,Prada,ITA
+486,Wolfgang Reimann,70,Fashion & Retail,M,,,,DEU
+486,Matthias Reimann-Andersen,58,Fashion & Retail,M,,,,DEU
+486,Stefan Reimann-Andersen,59,Fashion & Retail,M,,,,AUT
+486,Renate Reimann-Haas,71,Fashion & Retail,F,,,,AUT
+497,Todd Boehly,49,Finance & Investments,M,,,,USA
+497,Rick Caruso,64,Real Estate,M,,,,USA
+497,Ibrahim Erdemoglu,60,Manufacturing,M,,,,TUR
+497,Elizabeth Johnson,59,Finance & Investments,F,,,,USA
+497,Douglas Leone,65,Finance & Investments,M,Global Managing Partner,,Sequoia,USA
+497,Prajogo Pangestu,78,Diversified,M,,,,IDN
+497,Thomas Pritzker,72,Finance & Investments,M,Executive Chairman,,Hyatt Hotels,USA
+497,Lynda Resnick,80,Food & Beverage,F,,,,USA
+497,Stewart Resnick,86,Food & Beverage,M,,,,USA
+497,Gary Rollins,78,Service,M,,,,USA
+497,Mark Walter,62,Finance & Investments,M,CEO,,Guggenheim Partners LLC,USA
+497,Ronald Wanek,81,Manufacturing,M,,,,USA
+497,Erich Wesjohann & family,77,Food & Beverage,M,,,,DEU
+497,M.A. Yusuff Ali,67,Fashion & Retail,M,,,,ARE
+511,Alexandre Behring,56,Finance & Investments,M,,,,USA
+511,Cheng Xue,53,Food & Beverage,F,,,,CHN
+511,Robert Faith,59,Real Estate,M,,,,USA
+511,Gao Dekang & family,71,Fashion & Retail,M,,,,CHN
+511,Micky Jagtiani,71,Fashion & Retail,M,,,,ARE
+511,Ananda Krishnan,85,Telecom,M,,,,MYS
+511,Barry Lam,73,Technology,M,,,,TWN
+511,"Robert Rich, Jr.",82,Food & Beverage,M,,,,USA
+511,Mark Scheinberg,49,Gambling & Casinos,M,,,,GBR
+511,Charles Simonyi,74,Technology,M,,,,USA
+511,Ty Warner,78,Real Estate,M,,,,USA
+511,Sam Zell,81,Real Estate,M,,,,USA
+523,Fang Wei,49,Manufacturing,M,,,,CHN
+523,Rekha Jhunjhunwala,59,Finance & Investments,F,,,,IND
+523,Charles B. Johnson,90,Finance & Investments,M,Former Chairman and CEO,,Franklin Resources Inc.,USA
+523,Kwon Hyuk-bin,49,Media & Entertainment,M,,,Smilegate Holdings,KOR
+523,Sami Mnaymneh,61,Finance & Investments,M,,,,USA
+523,Tony Tamer,65,Finance & Investments,M,,,,USA
+523,Tse Ping & family,71,Healthcare,M,,,,HKG
+523,Romesh T. Wadhwani,75,Technology,M,Founder and Chairman,,Symphony Technology Group,USA
+523,Hansjoerg Wyss,88,Healthcare,M,,,,USA
+523,Denise York & family,72,Sports,F,Co-Chairman,,San Francisco 49ers,USA
+534,Ron Baron,79,Finance & Investments,M,,,,USA
+534,Robert Bass,75,Energy,M,,,,USA
+534,Dona Bertarelli,55,Healthcare,F,,,,CHE
+534,Alexander Gerko,43,Finance & Investments,M,,,,GBR
+534,Martin Haefner,69,Technology,M,,,,CHE
+534,"Robert Hale, Jr.",56,Telecom,M,,,,USA
+534,Viktor Kharitonin,50,Healthcare,M,,,,RUS
+534,Kim Beom-su,57,Technology,M,,,,KOR
+534,Jane Lauder,50,Fashion & Retail,F,,,,USA
+534,George Lucas,78,Media & Entertainment,M,,,,USA
+534,Janice McNair,86,Sports,F,,,,USA
+534,Ugur Sahin,57,Healthcare,M,,,,DEU
+534,Alexandra Schoerghuber & family,64,Real Estate,F,,,,DEU
+534,Thomas Straumann,59,Healthcare,M,,,,CHE
+534,Murat Ulker,64,Food & Beverage,M,,,,TUR
+534,Chip Wilson,66,Fashion & Retail,M,Chairman,,Lululemon,CAN
+552,Jim Davis & family,79,Manufacturing,M,Chairman,,New Balance,USA
+552,Murali Divi & family,72,Healthcare,M,,,,IND
+552,Dagmar Dolby & family,81,Technology,F,,,,USA
+552,Tom Golisano,81,Service,M,,,,USA
+552,Jonathan Gray,53,Finance & Investments,M,,,,USA
+552,Bidzina Ivanishvili,67,Finance & Investments,M,,,,GEO
+552,Lim Hariyanto Wijaya Sarwono,94,Metals & Mining,M,,,,IDN
+552,Rudolf Maag,77,Healthcare,M,,,,CHE
+552,Emanuele (Lino) Saputo & family,86,Food & Beverage,M,Chairman,,Saputo,CAN
+552,Mark Shoen,72,Automotive,M,,,,USA
+552,Dan Snyder,58,Sports,M,,,,USA
+552,Chairul Tanjung,60,Diversified,M,,,,IDN
+552,Kelcy Warren,67,Energy,M,,,,USA
+552,Zhang Tao,50,Fashion & Retail,M,,,,CHN
+567,Michael Ashley,58,Fashion & Retail,M,,,,GBR
+567,Tomasz Biernacki,50,Fashion & Retail,M,,,,POL
+567,Bernard Broermann,79,Healthcare,M,,,,DEU
+567,Jimmy Haslam,69,Fashion & Retail,M,CEO,,Pilot Flying J,USA
+567,H. Fisk Johnson,64,Manufacturing,M,,,,USA
+567,S. Curtis Johnson,67,Manufacturing,M,,,,USA
+567,Helen Johnson-Leipold,66,Manufacturing,F,,,,USA
+567,Vinod Khosla,68,Technology,M,Investor,,Khosla Ventures,USA
+567,Thai Lee,64,Technology,F,,,,USA
+567,Winifred J. Marquart,63,Manufacturing,F,,,,USA
+567,Pankaj Patel,70,Healthcare,M,,,,IND
+567,Horst Julius Pudwill,78,Manufacturing,M,,,,HKG
+567,Yu Yong,62,Finance & Investments,M,,,,CHN
+580,Maria Fernanda Amorim & family,88,Diversified,F,,,,PRT
+580,Gayle Benson,76,Sports,F,,,,USA
+580,Jason Chang,78,Technology,M,,,,TWN
+580,Ali Erdemoglu,63,Manufacturing,M,,,,TUR
+580,Andre Esteves,54,Finance & Investments,M,,,,BRA
+580,Carlo Fidani,68,Real Estate,M,Chairman,,Orlando Corporation,CAN
+580,Hong Ra-hee,77,Technology,F,,,,KOR
+580,Li Gaiteng,50,Manufacturing,M,,,,CHN
+580,Thomas Secunda,68,Media & Entertainment,M,,,,USA
+580,Zuowen Song,76,Diversified,M,,,,CHN
+580,Tim Sweeney,52,Media & Entertainment,M,,,,USA
+591,Bert Beveridge,61,Food & Beverage,M,,,,USA
+591,Mark Cuban,64,Media & Entertainment,M,Owner,,Dallas Mavericks,USA
+591,Charles Dolan & family,96,Media & Entertainment,M,Chairman and Founder,,Cablevision Systems Corp.,USA
+591,Jack Dorsey,46,Technology,M,Cofounder,,Twitter,USA
+591,Fan Hongwei,56,Energy,F,,,,CHN
+591,Vladimir Kim,62,Metals & Mining,M,,,,KAZ
+591,"Andre Koo, Sr.",55,Finance & Investments,M,,,,TWN
+591,Ronald Lauder,79,Fashion & Retail,M,,,,USA
+591,Li Chunan,54,Manufacturing,M,,,,CHN
+591,Forrest Li,45,Media & Entertainment,M,,,,SGP
+591,Richard Li,56,Telecom,M,,,,HKG
+591,Doug Meijer & family,69,Fashion & Retail,M,,,,USA
+591,Hank Meijer & family,71,Fashion & Retail,M,,,,USA
+591,Mark Meijer & family,65,Fashion & Retail,M,,,,USA
+591,Issad Rebrab & family,79,Food & Beverage,M,,,,DZA
+591,Fred Smith,78,Logistics,M,Chairman and CEO,,FedEx Corp.,USA
+591,Barry Sternlicht,62,Finance & Investments,M,,,,USA
+591,Maximilian Viessmann,34,Manufacturing,M,,,,DEU
+591,Russ Weiner,52,Food & Beverage,M,,,,USA
+591,Xue Min,66,Healthcare,M,,,,CHN
+611,Juan Domingo Beckmann Legorreta & family,55,Food & Beverage,M,,,,MEX
+611,Dietmar Hopp & family,82,Technology,M,,,,DEU
+611,Jiang Bin,56,Technology,M,,,,CHN
+611,Joseph Liemandt,54,Technology,M,,,,USA
+611,Theo Mueller,83,Food & Beverage,M,,,,CHE
+611,N.R. Narayana Murthy,76,Technology,M,,,,IND
+611,Marc Rowan,60,Finance & Investments,M,,,,USA
+611,Hussain Sajwani,70,Real Estate,M,,,,ARE
+611,David Velez & family,41,Finance & Investments,M,,,,BRA
+611,Xu Jinfu,59,Manufacturing,M,,,,CHN
+611,Samuel Yin,72,Diversified,M,,,,TWN
+611,You Xiaoping & family,65,Manufacturing,M,,,,CHN
+624,Stéphane Bancel,50,Healthcare,M,,,,USA
+624,Margot Birmingham Perot,89,Technology,F,,,,USA
+624,Neal Blue & family,88,Manufacturing,M,,,,USA
+624,Jim Davis,63,Service,M,,,,USA
+624,Rafael Del Pino,64,Construction & Engineering,M,,,,ESP
+624,Peter Grogg,81,Healthcare,M,,,,CHE
+624,Christian Haub,58,Fashion & Retail,M,,,,DEU
+624,Mangal Prabhat Lodha,67,Real Estate,M,,,,IND
+624,Jeffrey Lurie & family,71,Sports,M,,,,USA
+624,Joe Mansueto,66,Finance & Investments,M,"Entrepreneur, Investor",,Morningstar Inc.,USA
+624,Qian Dongqi & family,65,Manufacturing,M,,,,CHN
+624,Mikhail Shelkov,54,Metals & Mining,M,,,,RUS
+636,Patrick Drahi,59,Telecom,M,,,,CHE
+636,Behdad Eghbali,46,Finance & Investments,M,,,,USA
+636,Juan Carlos Escotet,63,Finance & Investments,M,,,,ESP
+636,Jose E. Feliciano,49,Finance & Investments,M,,,,USA
+636,Hu Kaijun,61,Healthcare,M,,,,CHN
+636,Johnelle Hunt,91,Logistics,F,,,,USA
+636,Marian Ilitch,90,Food & Beverage,F,,,,USA
+636,Daryl Katz,61,Diversified,M,Founder and Chairman,,Katz Group,CAN
+636,Andrei Kozitsyn,62,Metals & Mining,M,,,,RUS
+636,Timur Kulibaev,56,Finance & Investments,M,,,,KAZ
+636,Dinara Kulibaeva,55,Finance & Investments,F,,,,KAZ
+636,Gwendolyn Sontheim Meyer,61,Food & Beverage,F,,,,USA
+636,Jay Paul,75,Real Estate,M,,,,USA
+636,Pham Nhat Vuong,54,Diversified,M,,,,VNM
+636,Jon Stryker,64,Healthcare,M,,,,USA
+636,Daniel Tsai,66,Finance & Investments,M,,,,TWN
+636,Richard Tsai,65,Finance & Investments,M,,,,TWN
+636,Frank Wang,42,Technology,M,Founder and CEO,,DJI Technology Co.,CHN
+636,Wang Junshi & family,74,Manufacturing,M,,,,CHN
+636,Wang Wenjing,58,Technology,M,,,,CHN
+636,Herbert Wertheim,83,Finance & Investments,M,,,,USA
+659,Shari Arison,65,Service,F,"Investor, Philanthropist",,,ISR
+659,Pyotr Aven,68,Finance & Investments,M,,,,LVA
+659,Chan Laiwa & family,82,Real Estate,F,Philanthropist,,,CHN
+659,Chen Hua,57,Real Estate,M,,,,CHN
+659,Thomas Hagen,87,Finance & Investments,M,,,,USA
+659,"Rupert Johnson, Jr.",82,Finance & Investments,M,Vice Chairman and Director,,Franklin Resources Inc.,USA
+659,Dewi Kam,72,Energy,F,,,,IDN
+659,Min Kao & family,74,Technology,M,,,,USA
+659,Eric Lefkofsky,53,Technology,M,Chairman,,Groupon,USA
+659,Lin Bin,55,Technology,M,,,,CHN
+659,Lin Li,59,Finance & Investments,M,,,,CHN
+659,Michael Moritz,68,Technology,M,Investor,,Sequoia,USA
+659,Jean (Gigi) Pritzker,60,Service,F,,,,USA
+659,E. Joe Shoen,73,Automotive,M,,,,USA
+659,Jeff Skoll,58,Technology,M,,,,USA
+659,Lynsi Snyder,40,Food & Beverage,F,,,,USA
+659,Djoko Susanto,73,Fashion & Retail,M,,,,IDN
+659,Tahir & family,71,Diversified,M,,,,IDN
+659,Peter Thiel,55,Finance & Investments,M,Investor,,Founders Fund,USA
+679,Andrej Babis,68,Food & Beverage,M,,,,CZE
+679,Hubert Burda,83,Media & Entertainment,M,,,,DEU
+679,Nick Caporella,87,Food & Beverage,M,,,,USA
+679,John Catsimatidis,74,Energy,M,,,,USA
+679,Scott Cook,70,Technology,M,,,,USA
+679,Luca Garavoglia,54,Food & Beverage,M,,,,ITA
+679,Antti Herlin,66,Manufacturing,M,,,,FIN
+679,Hong Jie,55,Manufacturing,M,,,,CHN
+679,"Jeremy Jacobs, Sr. & family",83,Service,M,,,,USA
+679,Igor Kesaev,56,Fashion & Retail,M,,,,RUS
+679,Mary Alice Dorrance Malone,73,Food & Beverage,F,,,,USA
+679,Joao Moreira Salles,61,Diversified,M,,,,BRA
+679,Walther Moreira Salles Junior,66,Finance & Investments,M,,,,BRA
+679,Arturo Moreno,76,Sports,M,,,,USA
+679,Peter Spuhler,63,Manufacturing,M,,,,CHE
+679,Donald Sterling,88,Real Estate,M,,,,USA
+679,Kerry Stokes,82,Diversified,M,,,,AUS
+679,Ken Xie,60,Technology,M,,,,USA
+679,Liangzhi Xie & family,57,Healthcare,M,,,,CHN
+699,Sid Bass,80,Energy,M,,,,USA
+699,Ben Chestnut,48,Technology,M,,,,USA
+699,Elisabeth DeLuca & family,75,Food & Beverage,F,,,,USA
+699,Guangchang Guo,56,Diversified,M,,,,CHN
+699,Vinod Rai Gupta,77,Manufacturing,F,,,,IND
+699,John Henry,73,Sports,M,,,,USA
+699,Travis Kalanick,46,Technology,M,Cofounder,,Uber Technologies Inc.,USA
+699,Koon Poh Keong,61,Manufacturing,M,,,,MYS
+699,Dan Kurzius,51,Technology,M,,,,USA
+699,Paul Lee,65,Manufacturing,M,,,,CHN
+699,Tobi Lutke,42,Technology,M,,,,CAN
+699,Gail Miller,79,Automotive,F,,,,USA
+699,Rajan Mittal,63,Telecom,M,,,,IND
+699,Rakesh Mittal,67,Telecom,M,,,,IND
+699,Isaac Perlmutter,80,Media & Entertainment,M,Chairman,,Marvel Entertainment,USA
+699,"Bernard Saul, II.",90,Finance & Investments,M,Chairman and CEO,,Saul Centers,USA
+699,Shaul Shani,68,Telecom,M,,,,ITA
+699,Steven Spielberg,76,Media & Entertainment,M,,,,USA
+699,Jerzy Starak,75,Healthcare,M,,,,POL
+699,Torbjorn Tornqvist,69,Energy,M,,,,CHE
+699,Rufino Vigil Gonzalez,74,Metals & Mining,M,,,,MEX
+699,Zhang Daocai,73,Diversified,M,,,,CHN
+721,Juergen Blickle,76,Manufacturing,M,,,,DEU
+721,"Austen Cargill, II.",72,Food & Beverage,M,,,,USA
+721,"James Cargill, II.",73,Food & Beverage,M,,,,USA
+721,Vanich Chaiyawan,91,Finance & Investments,M,,,,THA
+721,Chen Dongsheng,65,Finance & Investments,M,,,,CHN
+721,Mong-Koo Chung,85,Automotive,M,,,,KOR
+721,Kenneth Dart,67,Finance & Investments,M,,,,CYM
+721,Giuseppe De'Longhi & family,83,Fashion & Retail,M,,,,ITA
+721,Guenther Fielmann & family,83,Healthcare,M,,,,DEU
+721,W. Herbert Hunt,94,Energy,M,Investor,,,USA
+721,James Irsay,63,Sports,M,CEO,,Indianapolis Colts,USA
+721,Marianne Liebmann,69,Food & Beverage,F,,,,USA
+721,Jorge Moll Filho & family,78,Healthcare,M,,,,BRA
+721,Fernando Roberto Moreira Salles,76,Diversified,M,,,,BRA
+721,Pedro Moreira Salles,63,Diversified,M,,,,BRA
+721,Gabe Newell,60,Gambling & Casinos,M,Cofounder and CEO,,Valve Corporation,USA
+721,Alfred Oetker,56,Fashion & Retail,M,,,,DEU
+721,Carl Ferdinand Oetker,50,Fashion & Retail,M,,,,DEU
+721,Julia Oetker,44,Fashion & Retail,F,,,,DEU
+721,Ruan Hongliang & family,62,Manufacturing,M,,,,CHN
+721,Mark Stevens,63,Finance & Investments,M,,,,USA
+721,Tsai Hong-tu,70,Finance & Investments,M,,,,TWN
+721,Nusli Wadia,79,Food & Beverage,M,,,,IND
+721,Wu Yiling,73,Healthcare,M,,,,CHN
+721,Yu Renrong,57,Manufacturing,M,,,,CHN
+721,Zhu Baoguo & family,60,Healthcare,M,,,,CHN
+748,Rahul Bhatia,63,Service,M,,,,IND
+748,Francesco Gaetano Caltagirone,80,Construction & Engineering,M,,,,ITA
+748,Barry Diller,81,Media & Entertainment,M,,,,USA
+748,Wesley Edens,61,Finance & Investments,M,,,,USA
+748,Stephen Feinberg,63,Finance & Investments,M,Co-founder and CEO,,Cerberus Capital Management,USA
+748,Rakesh Gangwal,69,Service,M,,,,USA
+748,Joseph Grendys,61,Food & Beverage,M,,,,USA
+748,Martha Ingram & family,87,Media & Entertainment,F,Former Chairman,,"Ingram Industries, Inc.",USA
+748,Li Xiang,41,Automotive,M,,,,CHN
+748,"H. Ross Perot, Jr.",64,Real Estate,M,,,,USA
+748,Chandru Raheja,82,Real Estate,M,,,,IND
+748,Trevor Rees-Jones,71,Energy,M,,,,USA
+748,Yasumitsu Shigeta,58,Telecom,M,,,,JPN
+748,Su Qingcan,54,Healthcare,M,,,,CHN
+748,Tsai Cheng-ta,73,Finance & Investments,M,,,,TWN
+748,Steven Udvar-Hazy,77,Service,M,CEO and Chairman,,Air Lease Corp.,USA
+748,Elizabeth Uihlein,77,Manufacturing,F,Entrepreneur,,,USA
+748,Richard Uihlein,77,Manufacturing,M,,,,USA
+766,Hayes Barnard,51,Finance & Investments,M,,,,USA
+766,William Berkley,76,Finance & Investments,M,Chairman and CEO,,WR Berkley,USA
+766,Charles Cohen,71,Real Estate,M,,,,USA
+766,Yakir Gabay,56,Real Estate,M,,,,GBR
+766,Huang Li,59,Technology,M,,,,CHN
+766,Brad Jacobs,66,Logistics,M,,,,USA
+766,Ji Qi,56,Real Estate,M,,,,CHN
+766,Jason Jiang,50,Media & Entertainment,M,,,,CHN
+766,Jim Kavanaugh,60,Technology,M,,,,USA
+766,Richard LeFrak & family,77,Real Estate,M,,,,USA
+766,Mikhail Lomtadze,47,Finance & Investments,M,,,,KAZ
+766,Tom Morris,68,Fashion & Retail,M,,,,GBR
+766,Shigenobu Nagamori,78,Manufacturing,M,,,,JPN
+766,Daniel Och,62,Finance & Investments,M,Founder,,Och-Ziff Capital Management,USA
+766,Horst Paulmann & family,88,Fashion & Retail,M,,,,CHL
+766,Anthony Pritzker,62,Service,M,,,,USA
+766,John Sall,75,Technology,M,"Co-Founder, Executive Vice President",,SAS Institute,USA
+766,Howard Schultz,69,Food & Beverage,M,,,,USA
+766,Richard Schulze,82,Fashion & Retail,M,Chairman,,Best Buy Co. Inc.,USA
+766,Yitzhak Tshuva,74,Real Estate,M,,,,ISR
+766,Wang Yanqing & family,56,Manufacturing,M,,,,CHN
+787,Rajiv Bajaj,56,Diversified,M,,,,IND
+787,Sanjiv Bajaj,53,Diversified,M,,,,IND
+787,Leonid Boguslavsky,71,Finance & Investments,M,,,,ITA
+787,Jim Coulter,63,Finance & Investments,M,,,,USA
+787,Nicolas D'Ieteren,47,Automotive,M,,,,CHE
+787,Beatriz Davila de Santo Domingo,84,Food & Beverage,F,,,,BMU
+787,Bob Gaglardi,82,Real Estate,M,,,,CAN
+787,Jaime Gilinski Bacal,65,Finance & Investments,M,Investor,,,GBR
+787,Pansy Ho,60,Gambling & Casinos,F,,,,HKG
+787,Alan Howard,59,Finance & Investments,M,Founder,,Brevan Howard Asset Management,CHE
+787,Huang Yi,61,Automotive,M,,,,CHN
+787,Peter Kellogg,80,Finance & Investments,M,,,,USA
+787,Vyacheslav Kim,53,Finance & Investments,M,,,,KAZ
+787,Josh Kushner,37,Finance & Investments,M,Managing Partner,,Thrive Capital,USA
+787,Samuel Tak Lee,83,Real Estate,M,,,,HKG
+787,Edwin Leong,71,Real Estate,M,,,,HKG
+787,"Stephen Mandel, Jr.",67,Finance & Investments,M,Founder,,Lone Pine Capital,USA
+787,Mohamed Mansour,75,Diversified,M,,,,GBR
+787,Masahiro Miki,67,Fashion & Retail,M,,,,JPN
+787,Masahiro Noda,84,Technology,M,,,,JPN
+787,Cliff Obrecht,37,Technology,M,,,,AUS
+787,Melanie Perkins,35,Technology,F,Cofounder & CEO,,Canva,AUS
+787,J.B. Pritzker,58,Finance & Investments,M,,,,USA
+787,Juan Roig,73,Fashion & Retail,M,,,,ESP
+787,Jerry Speyer & family,82,Real Estate,M,,,,USA
+787,Lawrence Stroll,63,Fashion & Retail,M,,,,CHE
+787,Tung Chee Chen,80,Logistics,M,,,,HKG
+787,Wang Junlin,60,Food & Beverage,M,,,,CHN
+787,Xia Zuoquan,61,Automotive,M,,,,CHN
+787,Zeng Fangqin,57,Technology,F,,,,CHN
+787,Zhang Jian,54,Manufacturing,M,,,,CHN
+818,Rocco Basilico,33,Fashion & Retail,M,,,,USA
+818,Maurizio Billi,65,Healthcare,M,,,,BRA
+818,Fashu Chen,62,Finance & Investments,M,,,,CHN
+818,Giuseppe Crippa & family,87,Manufacturing,M,,,,ITA
+818,Daniel D'Aniello,76,Finance & Investments,M,,,,USA
+818,Claudio Del Vecchio,66,Fashion & Retail,M,,,,USA
+818,Clemente Del Vecchio,18,Fashion & Retail,M,,,,ITA
+818,Leonardo Maria Del Vecchio,27,Fashion & Retail,M,,,,ITA
+818,Luca Del Vecchio,21,Fashion & Retail,M,,,,ITA
+818,Marisa Del Vecchio,64,Fashion & Retail,F,,,,ITA
+818,Paola Del Vecchio,61,Fashion & Retail,F,,,,LUX
+818,Walter P.J. Droege,70,Finance & Investments,M,,,,DEU
+818,Fan Daidi,57,Fashion & Retail,F,,,,CHN
+818,Peter Gassner,58,Technology,M,,,,USA
+818,Mikhail Gutseriev,65,Energy,M,,,,RUS
+818,Patrick Lee,81,Manufacturing,M,,,,HKG
+818,Leng Youbin,54,Food & Beverage,M,,,,CHN
+818,Daniel Loeb,61,Finance & Investments,M,Investor,,Third Point,USA
+818,Margarita Louis-Dreyfus & family,60,Food & Beverage,F,President,,Louis Dreyfus SAS,CHE
+818,Prasert Prasarttong-Osoth,90,Healthcare,M,,,,THA
+818,Ira Rennert,88,Finance & Investments,M,,,,USA
+818,Dirk Rossmann & family,76,Fashion & Retail,M,,,,DEU
+818,Arkady Rotenberg,71,Construction & Engineering,M,,,,RUS
+818,Remo Ruffini,61,Fashion & Retail,M,,,,ITA
+818,Vivek Chaand Sehgal,66,Automotive,M,,,,IND
+818,Scott Shleifer,45,Finance & Investments,M,Investor,,Tiger Global Management,USA
+818,Thomas Siebel,70,Technology,M,,,,USA
+818,Wim van der Leegte & family,75,Manufacturing,M,,,,NLD
+818,Xiao Yongming & family,58,Diversified,M,,,,CHN
+818,Michael Xie,54,Technology,M,,,,USA
+818,Yang Shaopeng,65,Logistics,M,,,,CHN
+818,Nicoletta Zampillo,65,Fashion & Retail,F,,,,MCO
+818,Barry Zekelman,56,Manufacturing,M,,,,CAN
+852,William Ackman,56,Finance & Investments,M,"Founder, CEO",,"Pershing Square Capital Management, L.P.",USA
+852,Somphote Ahunai,55,Energy,M,,,,THA
+852,Igor Altushkin,52,Metals & Mining,M,,,,RUS
+852,Ramon Ang,69,Food & Beverage,M,,,,PHL
+852,Acharya Balkrishna,50,Food & Beverage,M,,,,IND
+852,Markus Blocher,52,Manufacturing,M,,,,CHE
+852,Richard Branson,72,Diversified,M,,,,VGB
+852,Cho Jung-ho,64,Finance & Investments,M,,,Meritz Financial Group,KOR
+852,Alessandra Garavoglia,63,Food & Beverage,F,,,,ITA
+852,Laurence Graff & family,84,Fashion & Retail,M,,,,CHE
+852,"Amos Hostetter, Jr.",86,Media & Entertainment,M,Chair,,Pilot House Associates,USA
+852,Robert Johnson,75,Sports,M,,,,USA
+852,Steven Klinsky,66,Finance & Investments,M,Founder & CEO,,New Mountain Capital,USA
+852,William Lauder,62,Fashion & Retail,M,,,,USA
+852,John Middleton,68,Food & Beverage,M,,,,USA
+852,Hiroshi Mikitani,58,Fashion & Retail,M,,,,JPN
+852,Bob Parsons,72,Technology,M,,,,USA
+852,J. Joe Ricketts & family,81,Finance & Investments,M,,,,USA
+852,Herb Simon,88,Real Estate,M,"Chairman Emeritus of the Board of Simon Property Group, Inc.",,Simon Property Group,USA
+852,Leena Tewari,65,Healthcare,F,,,,IND
+852,Stefan von Holtzbrinck,59,Media & Entertainment,M,,,,DEU
+852,Hans Peter Wild,81,Food & Beverage,M,,,,CHE
+852,Wu Guanjiang & family,54,Healthcare,M,,,,CHN
+852,Yi Zheng,52,Technology,M,,,,CHN
+852,Eric Yuan & family,53,Technology,M,Founder and CEO,,Zoom Video Communications,USA
+852,Charles Zegar,75,Media & Entertainment,M,,,,USA
+878,John Arnold,49,Finance & Investments,M,Founder,,Centaurus Advisors,USA
+878,Bill Austin,81,Manufacturing,M,,,,USA
+878,Chen Shibin,56,Manufacturing,M,,,,CHN
+878,Bennett Dorrance,77,Food & Beverage,M,,,,USA
+878,Walter Faria,68,Food & Beverage,M,,,,BRA
+878,Walter Frey,79,Automotive,M,,,,CHE
+878,Fu Liquan & family,55,Technology,M,,,,CHN
+878,John Gandel,88,Real Estate,M,,,,AUS
+878,Peter Gilgan,72,Construction & Engineering,M,"Founder, CEO and Chairman",,Mattamy Group Corp.,CAN
+878,Kwek Leng Beng,82,Diversified,M,,,,SGP
+878,Pablo Legorreta,59,Finance & Investments,M,,,,USA
+878,Arnon Milchan,78,Media & Entertainment,M,,,,ISR
+878,Akio Nitori,79,Fashion & Retail,M,,,,JPN
+878,Julio Ponce Lerou,77,Metals & Mining,M,,,,CHL
+878,Rodger Riney & family,77,Finance & Investments,M,Cofounder,,"Scottrade, Inc.",USA
+878,Phil Ruffin,88,Diversified,M,,,,USA
+878,Naguib Sawiris,68,Telecom,M,,,,EGY
+878,Neil Shen,55,Finance & Investments,M,Investor,,Sequoia China,CHN
+878,Gil Shwed,54,Technology,M,,,,ISR
+878,Stephen Smith,71,Finance & Investments,M,,,,CAN
+878,Nik Storonsky,38,Finance & Investments,M,,,,GBR
+878,Jeffrey Talpins,48,Finance & Investments,M,Founder,,Element Capital Management,USA
+878,Carl Thoma,74,Finance & Investments,M,Investor,,,USA
+878,Todd Wanek,59,Manufacturing,M,,,,USA
+878,Xue Hua,53,Manufacturing,M,,,,CHN
+878,Takao Yasuda,73,Fashion & Retail,M,,,,SGP
+905,Giuliana Benetton,85,Fashion & Retail,F,,,,ITA
+905,Luciano Benetton,87,Fashion & Retail,M,,,,ITA
+905,Arun Bharat Ram,82,Manufacturing,M,,,,IND
+905,Ron Burkle,70,Finance & Investments,M,Investor,,"The Yucaipa Companies, LLC",GBR
+905,Chen Kaixuan,64,Manufacturing,M,,,,CHN
+905,Brunello Cucinelli & family,69,Fashion & Retail,M,,,,ITA
+905,Antonio Del Valle Ruiz & family,84,Manufacturing,M,,,,MEX
+905,Gustavo Denegri & family,86,Healthcare,M,,,,ITA
+905,Dong Jinggui,53,Automotive,M,,,,CHN
+905,Charles Ergen,70,Media & Entertainment,M,Founder and Chairman,,DISH Network,USA
+905,David Filo,56,Technology,M,Chief Yahoo,,Yahoo!,USA
+905,Lindsay Fox,85,Logistics,M,,,,AUS
+905,Sergei Galitsky,55,Fashion & Retail,M,,,,RUS
+905,Senapathy Gopalakrishnan,67,Technology,M,,,,IND
+905,Luciano Hang,60,Fashion & Retail,M,,,,BRA
+905,Michael Hintze,69,Finance & Investments,M,Founder,,CQS LLP,GBR
+905,Hu Baifan,60,Healthcare,M,,,,CHN
+905,Hamilton James & family,71,Finance & Investments,M,,,,USA
+905,Lee Boo-jin,52,Technology,F,,,,KOR
+905,Li Liangbin,55,Manufacturing,M,,,,CHN
+905,Liang Feng,54,Manufacturing,M,,,,CHN
+905,Samir Mehta,59,Healthcare,M,,,,IND
+905,Sudhir Mehta,68,Healthcare,M,,,,IND
+905,Aristotelis Mistakidis,61,Metals & Mining,M,,,,CHE
+905,Geoffrey Palmer,72,Real Estate,M,,,,USA
+905,Roger Penske,86,Automotive,M,,,,USA
+905,Ravi Pillai,69,Construction & Engineering,M,,,,ARE
+905,David Rubenstein,73,Finance & Investments,M,Cofounder and Co-executive Chairman,,Carlyle Group,USA
+905,Hilton Schlosberg,70,Food & Beverage,M,,,,USA
+905,Klaus-Peter Schulenberg,71,Service,M,,,,DEU
+905,Lynn Schusterman & family,84,Energy,F,,,,USA
+905,Isabella Seràgnoli,77,Manufacturing,F,,,,ITA
+905,Shen Guojun,60,Fashion & Retail,M,,,,CHN
+905,Warren Stephens,66,Finance & Investments,M,,,,USA
+905,Pat Stryker,66,Healthcare,F,,,,USA
+905,Roman Trotsenko,52,Logistics,M,,,,RUS
+905,Harald Tschira,48,Technology,M,,,,DEU
+905,Udo Tschira,53,Technology,M,,,,DEU
+905,Vincent Viola,67,Finance & Investments,M,,,,USA
+905,Wu Shaoxun,67,Food & Beverage,M,,,,CHN
+905,Steve Wynn,81,Gambling & Casinos,M,Cofounder,,Wynn Resorts,USA
+905,Jon Yarbrough,65,Gambling & Casinos,M,,,,USA
+905,Zhou Bajin,87,Manufacturing,M,,,,CHN
+949,Cho Tak Wong,76,Manufacturing,M,,,,CHN
+949,John Coates,53,Gambling & Casinos,M,,,,GBR
+949,Ryan Cohen,37,Finance & Investments,M,,,,USA
+949,Deng Wen,55,Food & Beverage,M,,,,CHN
+949,Gurbachan Singh Dhingra,72,Manufacturing,M,,,,IND
+949,Kuldip Singh Dhingra,75,Manufacturing,M,,,,IND
+949,Martin Ebner,77,Finance & Investments,M,,,,CHE
+949,Sergei Gordeev,50,Real Estate,M,,,,RUS
+949,Jeff T. Green,46,Media & Entertainment,M,,,,USA
+949,Reed Hastings,62,Technology,M,CEO,,Netflix,USA
+949,Bertil Hult,82,Service,M,,,,CHE
+949,Miguel Krigsner,73,Fashion & Retail,M,,,,BRA
+949,Kuok Khoon Hong,73,Manufacturing,M,,,,SGP
+949,Aerin Lauder,52,Fashion & Retail,F,,,,USA
+949,Sheldon Lavin,90,Food & Beverage,M,,,,USA
+949,Yin Yee Lee,71,Manufacturing,M,,,,HKG
+949,Vladimir Litvinenko & family,67,Manufacturing,M,,,,RUS
+949,Daniel Mate,59,Metals & Mining,M,,,,CHE
+949,Ravi Modi,46,Fashion & Retail,M,,,,IND
+949,Farhad Moshiri,67,Diversified,M,,,,MCO
+949,Jonathan Nelson,66,Finance & Investments,M,Executive Chairman ,,Providence Equity Partners,USA
+949,Or Wai Sheun,71,Real Estate,M,,,,HKG
+949,Katharina Otto-Bernstein,59,Real Estate,F,,,,USA
+949,Sergei Popov,51,Finance & Investments,M,,,,CHE
+949,Penny Pritzker,63,Finance & Investments,F,Cofounder,,Inspired Capital,USA
+949,Theodore Rachmat,79,Diversified,M,,,,IDN
+949,Renzo Rosso & family,67,Fashion & Retail,M,,,,ITA
+949,Friede Springer,80,Media & Entertainment,F,,,,DEU
+949,Rita Tong Liu,74,Real Estate,F,,,,HKG
+949,Timur Turlov,35,Finance & Investments,M,,,,KAZ
+949,Frank VanderSloot,74,Fashion & Retail,M,,,,USA
+949,Yoo Jung-hyun,53,Media & Entertainment,F,,,,KOR
+982,Semahat Sevim Arsel,94,Diversified,F,,,,TUR
+982,Nicolas Berggruen,61,Real Estate,M,,,,USA
+982,George Bishop,85,Energy,M,,,,USA
+982,Norman Braman,90,Automotive,M,,,,USA
+982,Eva Maria Bucher-Haefner,66,Technology,F,,,,CHE
+982,Cai Dongchen,70,Healthcare,M,,,,CHN
+982,Todd Christopher,60,Fashion & Retail,M,,,,USA
+982,Mang Yee Chu & family,63,Real Estate,M,,,,CHN
+982,"William Conway, Jr.",73,Finance & Investments,M,Co-Chief Executive Officer and Co-founder,,Carlyle Group,USA
+982,Jean Coutu & family,95,Fashion & Retail,M,Chairman,,Jean Coutu Group (PJC) Inc. (Cl A),CAN
+982,"Edward DeBartolo, Jr.",76,Real Estate,M,,,,USA
+982,Stephen Deckoff,57,Finance & Investments,M,,,,USA
+982,Feng Hailiang,62,Metals & Mining,M,,,,CHN
+982,"Ernest Garcia, II.",65,Automotive,M,,,,USA
+982,Sam Goi,76,Food & Beverage,M,,,,SGP
+982,Carlos Hank Rhon,75,Diversified,M,,,,MEX
+982,Susan Carol Holland,66,Manufacturing,F,,,,ITA
+982,Hui Ka Yan,64,Real Estate,M,,,,CHN
+982,Vivek Jain,67,Manufacturing,M,,,,IND
+982,Friedrich Knapp,71,Fashion & Retail,M,,,,DEU
+982,Egor Kulkov,51,Healthcare,M,,,,CHE
+982,Lin Ming-hsiung,73,Fashion & Retail,M,,,,TWN
+982,Lin Xiucheng & family,67,Technology,M,,,,CHN
+982,Harsh Mariwala,71,Food & Beverage,M,,,,IND
+982,Maja Oeri,68,Healthcare,F,,,,CHE
+982,John Paulson,67,Finance & Investments,M,Founder,,Paulson & Co. Inc.,USA
+982,Ajay Piramal,67,Healthcare,M,,,,IND
+982,Guanghe Qiu & family,71,Fashion & Retail,M,,,,CHN
+982,Stephen Rubin,86,Fashion & Retail,M,,,,GBR
+982,Robert Sands,64,Food & Beverage,M,,,,USA
+982,Erik Selin,55,Real Estate,M,,,,SWE
+982,Yonghong Shi & family,54,Food & Beverage,M,,,,CHN
+982,Martua Sitorus,63,Manufacturing,M,,,,SGP
+982,Guangxin Sun,60,Diversified,M,,,,CHN
+982,Sukanto Tanoto,73,Diversified,M,,,,SGP
+982,Sunny Varkey,65,Service,M,,,,ARE
+982,Gang Ye,42,Media & Entertainment,M,,,,SGP
+982,Ye Xiaoping,60,Healthcare,M,,,,CHN
+982,Lei Zhang,50,Finance & Investments,M,,,,HKG
+982,Zhu Gongshan & family,65,Manufacturing,M,,,,CHN
+1027,Isak Andic & family,69,Fashion & Retail,M,,,,ESP
+1027,Alberto Bombassei,82,Automotive,M,,,,ITA
+1027,Cao Longxiang & family,65,Healthcare,M,,,,CHN
+1027,"Roy Carroll, II.",60,Real Estate,M,,,,USA
+1027,John Caudwell,70,Telecom,M,,,,GBR
+1027,James Clark,79,Technology,M,Cofounder,,Netscape Communications Corporation,USA
+1027,Jacques D'Amours,66,Fashion & Retail,M,Vice President and Cofounder,,Alimentation Couche Tard Inc. Cl A,CAN
+1027,John Paul DeJoria,78,Fashion & Retail,M,,,,USA
+1027,Bernard Ecclestone & family,92,Sports,M,,,,GBR
+1027,Michael Federmann & family,79,Technology,M,,,,ISR
+1027,Kenneth Feld & family,74,Media & Entertainment,M,Chairman,,Feld Entertainment,USA
+1027,Gu Yuhua & family,73,Manufacturing,M,,,,CHN
+1027,Otto Happel,75,Construction & Engineering,M,,,,CHE
+1027,Gudrun Heine,68,Healthcare,F,,,,DEU
+1027,Donald Horton & family,73,Real Estate,M,,,,USA
+1027,Zarakh Iliev,56,Real Estate,M,,,,RUS
+1027,Ipek Kirac,38,Diversified,F,,,,TUR
+1027,Lee Seo-hyun,49,Technology,F,,,,KOR
+1027,Li Jianquan & family,66,Healthcare,M,,,,CHN
+1027,Li Li,57,Healthcare,M,,,,CHN
+1027,Li Xiaohua & family,61,Manufacturing,M,,,,CHN
+1027,Liu Xiaodong,55,Manufacturing,M,,,,CHN
+1027,Martin Lorentzon,54,Technology,M,,,,SWE
+1027,Ronald McAulay,87,Energy,M,,,,HKG
+1027,Erwin Franz Mueller,90,Fashion & Retail,M,,,,DEU
+1027,Georg Nemetschek & family,89,Technology,M,,,,DEU
+1027,God Nisanov,50,Real Estate,M,,,,RUS
+1027,Vikas Oberoi,52,Real Estate,M,,,,IND
+1027,Gregorio Perez Companc & family,87,Energy,M,,,,ARG
+1027,Sebastian Piñera & family,73,Finance & Investments,M,President,,Chile,CHL
+1027,Arvind Poddar,65,Automotive,M,,,,IND
+1027,Alexey Repik,43,Healthcare,M,,,,RUS
+1027,Haim Saban,78,Media & Entertainment,M,,,,USA
+1027,Rodney Sacks,73,Food & Beverage,M,CEO,,Monster Beverage,USA
+1027,Karthik Sarma,48,Finance & Investments,M,,,,USA
+1027,Sybill Storz,85,Healthcare,F,,,,DEU
+1027,Daniel Sundheim,46,Finance & Investments,M,Investor,,,USA
+1027,"William Wrigley, Jr.",59,Food & Beverage,M,Investor,,"Wrigley Management, Inc.",USA
+1027,Zhang Wenzhong,61,Fashion & Retail,M,,,,CHN
+1027,Zhou Jianping,62,Fashion & Retail,M,,,,CHN
+1067,Joy Alukkas,66,Fashion & Retail,M,,,,IND
+1067,Kang An,74,Healthcare,M,,,,CHN
+1067,Garrett Camp,44,Technology,M,Cofounder and Chairman,,Uber Technologies Inc.,USA
+1067,Chen Lip Keong,75,Gambling & Casinos,M,,,,KHM
+1067,Choo Chong Ngen,69,Real Estate,M,,,,SGP
+1067,Euisun Chung,52,Automotive,M,,,Hyundai Motor Co. Ltd.,KOR
+1067,Smita Crishna-Godrej,72,Diversified,F,,,,IND
+1067,Eleanor Butt Crook & family,90,Fashion & Retail,F,,,,USA
+1067,Du Jiangtao & family,53,Manufacturing,M,,,,CHN
+1067,Lorenzo Fertitta,54,Sports,M,,,,USA
+1067,Adi Godrej,81,Diversified,M,,,,IND
+1067,Jamshyd Godrej,74,Diversified,M,,,,IND
+1067,Lee Yeow Chor,56,Real Estate,M,,,,MYS
+1067,Li Weiguo,58,Manufacturing,M,,,,CHN
+1067,Dmitry Mazepin,54,Manufacturing,M,,,,RUS
+1067,"Drayton McLane, Jr.",86,Fashion & Retail,M,,,,USA
+1067,Najib Mikati,67,Telecom,M,,,,LBN
+1067,Taha Mikati,78,Telecom,M,,,,LBN
+1067,Akira Mori & family,86,Real Estate,M,,,,JPN
+1067,Rishad Naoroji,71,Diversified,M,,,,IND
+1067,Nandan Nilekani,67,Technology,M,,,,IND
+1067,Ranjan Pai,50,Service,M,,,,IND
+1067,Madhukar Parekh,76,Manufacturing,M,,,,IND
+1067,Sean Parker,43,Technology,M,,,,USA
+1067,Stewart Rahr,77,Healthcare,M,,,,USA
+1067,Su Hua,41,Media & Entertainment,M,,,,CHN
+1067,Sun Shoukuan,73,Manufacturing,M,,,,CHN
+1067,Tseng Cheng,61,Manufacturing,M,,,,TWN
+1067,Tung Chee Hwa,85,Logistics,M,,,,HKG
+1067,Meg Whitman,66,Technology,F,CEO,,Quibi,USA
+1067,Wong Luen Hei,61,Manufacturing,M,,,,HKG
+1067,Chenghai Ye & family,79,Healthcare,M,,,,HKG
+1067,Zhu Xingming,56,Manufacturing,M,,,,CHN
+1104,Jose Joao Abdalla Filho,77,Finance & Investments,M,,,,BRA
+1104,Juan Abello,81,Finance & Investments,M,,,,ESP
+1104,Suhail Bahwan,84,Diversified,M,,,,OMN
+1104,Madhur Bajaj,70,Diversified,M,,,,IND
+1104,Niraj Bajaj,68,Diversified,M,,,,IND
+1104,Shekhar Bajaj,74,Diversified,M,,,,IND
+1104,Harindarpal Banga,72,Finance & Investments,M,,,,HKG
+1104,Anne Beaufour,59,Healthcare,F,,,,GBR
+1104,Henri Beaufour,57,Healthcare,M,,,,GBR
+1104,Andrei Bokarev,56,Manufacturing,M,,,,RUS
+1104,Jack Cowin,80,Food & Beverage,M,,,,AUS
+1104,Glenn Dubin,65,Finance & Investments,M,,,,USA
+1104,N. Murray Edwards,63,Energy,M,,,,GBR
+1104,"Frank Fertitta, III.",61,Sports,M,,,,USA
+1104,Abhay Firodia,78,Automotive,M,,,,IND
+1104,Bruce Flatt,57,Finance & Investments,M,Investor,,,GBR
+1104,Miguel Fluxa Rossello,84,Service,M,,,,ESP
+1104,Robert Friedland,72,Metals & Mining,M,Founder and Executive Chairman,,Ivanhoe Mines Ltd.,SGP
+1104,Alexander Frolov,58,Metals & Mining,M,,,,RUS
+1104,Nadir Godrej,72,Diversified,M,,,,IND
+1104,Maggie Hardy,57,Service,F,,,,USA
+1104,Nithin Kamath,43,Finance & Investments,M,,,,IND
+1104,Samvel Karapetyan,57,Construction & Engineering,M,,,,RUS
+1104,Kei Hoi Pang,57,Real Estate,M,,,,HKG
+1104,Mustafa Rahmi Koc,92,Diversified,M,,,,TUR
+1104,Yuri Kovalchuk & family,71,Finance & Investments,M,,,,RUS
+1104,Geoffrey Kwok,37,Real Estate,M,,,,HKG
+1104,Jonathan Kwok,31,Real Estate,M,,,,HKG
+1104,Hans Langer,71,Manufacturing,M,,,,DEU
+1104,Frank Laukien,63,Manufacturing,M,,,,USA
+1104,Maritsa Lazari & family,78,Real Estate,F,,,,GBR
+1104,Angela Leong,62,Real Estate,F,,,,HKG
+1104,Li Zhongchu,59,Technology,M,,,,CHN
+1104,Liang Yunchao,54,Food & Beverage,M,,,,CHN
+1104,Vincent McMahon,77,Sports,M,,,,USA
+1104,Patrice Motsepe,61,Metals & Mining,M,,,,ZAF
+1104,Denis O'Brien,64,Telecom,M,,,,IRL
+1104,Dan Olsson,76,Diversified,M,,,,SWE
+1104,Yuji Otsuka,69,Technology,M,,,,JPN
+1104,Pan Dong,58,Fashion & Retail,F,,,,HKG
+1104,Karsanbhai Patel,79,Diversified,M,,,,IND
+1104,Richard Peery,84,Real Estate,M,,,,USA
+1104,Wayne Rothbaum,55,Healthcare,M,Investor,,,USA
+1104,Jeff Rothschild,68,Technology,M,Advisor,,Meta Platforms,USA
+1104,Raj Sardana,63,Technology,M,,,,USA
+1104,Salil Singhal,75,Manufacturing,M,,,,IND
+1104,Alexander Skorobogatko,55,Logistics,M,,,,RUS
+1104,Evan Spiegel,32,Technology,M,Cofounder,,Snap,USA
+1104,Glen Taylor,81,Service,M,,,,USA
+1104,Thomas Tull,52,Media & Entertainment,M,,,,USA
+1104,Bulat Utemuratov,65,Metals & Mining,M,,,,KAZ
+1104,Wong Man Li,58,Manufacturing,M,,,,HKG
+1104,Guangming Wu,61,Healthcare,M,,,,CHN
+1104,Zhu Yi,59,Healthcare,M,,,,CHN
+1164,Ben Ashkenazy,53,Real Estate,M,,,,USA
+1164,Felix Baker,54,Finance & Investments,M,,,,USA
+1164,Julian Baker,56,Finance & Investments,M,,,,USA
+1164,David Baszucki,60,Media & Entertainment,M,,,,USA
+1164,Joesley Batista,51,Food & Beverage,M,,,,BRA
+1164,Wesley Batista,50,Food & Beverage,M,,,,BRA
+1164,Yvonne Bauer,46,Media & Entertainment,F,,,,DEU
+1164,Miriam Baumann-Blocher,48,Manufacturing,F,,,,CHE
+1164,Cen Junda,58,Healthcare,M,,,,CHN
+1164,Richard Chandler,64,Finance & Investments,M,,,,SGP
+1164,Chen Zhiping,47,Manufacturing,M,,,,CHN
+1164,Fernando Chico Pardo,71,Service,M,,,,MEX
+1164,Ray Davis,81,Energy,M,,,,USA
+1164,Maria Del Pino,67,Construction & Engineering,F,,,,ESP
+1164,Deng Weiming & family,54,Manufacturing,M,,,,CHN
+1164,"John Dorrance, III.",79,Food & Beverage,M,,,,IRL
+1164,Carl Douglas,61,Diversified,M,,,,SWE
+1164,Eric Douglas,54,Diversified,M,,,,SWE
+1164,Fiona Geminder,58,Manufacturing,F,,,,AUS
+1164,Stewart Horejsi & family,85,Finance & Investments,M,,,,USA
+1164,Hou Juncheng,58,Healthcare,M,,,,CHN
+1164,Zhenda Huang & family,75,Construction & Engineering,M,,,,CHN
+1164,Dmitry Kamenshchik,54,Service,M,,,,RUS
+1164,Alicia Koplowitz,69,Finance & Investments,F,,,,ESP
+1164,Adam Kwok,40,Real Estate,M,,,,HKG
+1164,Henry Laufer,77,Finance & Investments,M,Investor,,,USA
+1164,Mark Leonard & family,66,Technology,M,,,,CAN
+1164,Li Guoqiang,59,Automotive,M,,,,CHN
+1164,Li Yongxin,47,Service,M,,,,CHN
+1164,Peter Lim,69,Finance & Investments,M,,,,SGP
+1164,Lu Weiding,52,Diversified,M,,,,CHN
+1164,Sergio Mantegazza,95,Service,M,,,,CHE
+1164,Hans Melchers,84,Finance & Investments,M,,,,NLD
+1164,C. Dean Metropoulos,76,Food & Beverage,M,,,,USA
+1164,Hans Georg Naeder,61,Manufacturing,M,,,,DEU
+1164,Falguni Nayar,60,Fashion & Retail,F,Founder & CEO,,Nykaa,IND
+1164,James Packer,55,Finance & Investments,M,,,,USA
+1164,Alexander Ponomarenko,58,Logistics,M,,,,RUS
+1164,Nicholas Pritzker,79,Finance & Investments,M,,,,USA
+1164,Alejandro Santo Domingo,46,Food & Beverage,M,,,,USA
+1164,Steven Sarowitz,57,Technology,M,,,,USA
+1164,Maria-Elisabeth Schaeffler-Thumann,81,Automotive,F,,,,DEU
+1164,Leonard Schleifer,70,Healthcare,M,CEO and Founder,,Regeneron Pharmaceuticals,USA
+1164,Dieter Schnabel,77,Manufacturing,M,,,,DEU
+1164,Michael S. Smith,67,Energy,M,Investor,,,USA
+1164,Julia Thiele-Schuerhoff,51,Manufacturing,F,,,,DEU
+1164,John Tyson & family,69,Food & Beverage,M,,,,USA
+1164,Zhao Lixin,57,Technology,M,,,,CHN
+1164,Hongyi Zhou,52,Technology,M,,,,CHN
+1217,S. Daniel Abraham,98,Food & Beverage,M,Chairman,,S. Daniel Abraham Center for Middle East Peace,USA
+1217,Bill Alfond,74,Fashion & Retail,M,,,,USA
+1217,Susan Alfond,77,Fashion & Retail,F,,,,USA
+1217,Ted Alfond,78,Fashion & Retail,M,,,,USA
+1217,Riley Bechtel & family,71,Construction & Engineering,M,former Chairman and CEO,,Bechtel Corp.,USA
+1217,Thor Bjorgolfsson,56,Diversified,M,,,,GBR
+1217,Charles Bronfman,91,Food & Beverage,M,,,,USA
+1217,Vivek Chand Burman,85,Food & Beverage,M,,,,IND
+1217,Herb Chambers,81,Automotive,M,,,,USA
+1217,Cheng Yixiao,39,Media & Entertainment,M,,,,CHN
+1217,Andrew Cherng,75,Food & Beverage,M,,,,USA
+1217,Peggy Cherng,75,Food & Beverage,F,,,,USA
+1217,Leon G. Cooperman,79,Finance & Investments,M,Founder,,"Omega Advisors, Inc.",USA
+1217,Yadu Hari Dalmia & family,75,Manufacturing,M,,,,IND
+1217,Henry Davis,72,Food & Beverage,M,,,,USA
+1217,Oleg Deripaska,55,Metals & Mining,M,,,,RUS
+1217,Sergey Dmitriev,57,Technology,M,,,,CYP
+1217,Joseph Edelman,67,Finance & Investments,M,Founder & CEO,,Perceptive Advisors,USA
+1217,Sandeep Engineer,61,Manufacturing,M,,,,IND
+1217,Alceu Elias Feldmann & family,73,Energy,M,,,,BRA
+1217,Serge Godin,73,Technology,M,Chairman and CEO,,CGI Group,CAN
+1217,Alec Gores,70,Finance & Investments,M,,,,USA
+1217,Bill Haslam,64,Fashion & Retail,M,,,,USA
+1217,J. Tomilson Hill,74,Finance & Investments,M,,,,USA
+1217,Jay-Z,53,Media & Entertainment,M,,,,USA
+1217,Baba Kalyani,74,Automotive,M,,,,IND
+1217,Saban Cemil Kazanci,62,Energy,M,,,,TUR
+1217,Brad Kelley,66,Real Estate,M,,,,USA
+1217,Wolfgang Leitner,70,Construction & Engineering,M,,,,AUT
+1217,Li Hongxin & family,70,Manufacturing,M,,,,CHN
+1217,Lin Chen-hai,76,Real Estate,M,,,,TWN
+1217,Lu Yiwen,36,Fashion & Retail,F,,,,CHN
+1217,Prayudh Mahagitsiri,77,Food & Beverage,M,,,,THA
+1217,Willy Michel,76,Healthcare,M,,,,CHE
+1217,Lachhman Das Mittal,92,Automotive,M,,,,IND
+1217,Bobby Murphy,34,Technology,M,Cofounder,,Snap,USA
+1217,Tomas Olivo Lopez,49,Real Estate,M,,,,ESP
+1217,Eren Ozmen,64,Manufacturing,F,,,,USA
+1217,John Pritzker,69,Finance & Investments,M,,,,USA
+1217,Qiu Minxiu,77,Technology,F,,,,CHN
+1217,Ferit Faik Sahenk,59,Diversified,M,,,,TUR
+1217,Wenrong Shen,77,Metals & Mining,M,,,,CHN
+1217,Yuzhu Shi,60,Diversified,M,,,,CHN
+1217,Jeff Sutton,63,Real Estate,M,,,,USA
+1217,"Henry Sy, Jr.",69,Diversified,M,,,,PHL
+1217,Andrew Tan,71,Diversified,M,,,,PHL
+1217,Arvind Tiku,53,Energy,M,,,,SGP
+1217,Byron Trott,64,Finance & Investments,M,,,,USA
+1217,Donald Trump,76,Real Estate,M,,,,USA
+1217,Peter Unger,78,Automotive,M,,,,DEU
+1217,Roger Wang,74,Fashion & Retail,M,,,,CHN
+1217,Oprah Winfrey,69,Media & Entertainment,F,"Entrepreneur, Personality, Philanthropist",,,USA
+1217,Wu Zhigang & family,88,Food & Beverage,M,,,,CHN
+1217,Xie Weitong,66,Metals & Mining,M,,,,SGP
+1217,Ye Guofu,45,Fashion & Retail,M,,,,CHN
+1272,Brian Acton,51,Technology,M,Cofounder,,WhatsApp Inc.,USA
+1272,Abdulla Al Futtaim & family,83,Automotive,M,,,,ARE
+1272,Edward Bass,77,Energy,M,,,,USA
+1272,Koos Bekker,70,Media & Entertainment,M,,,,ZAF
+1272,Otto Philipp Braun,45,Healthcare,M,,,,DEU
+1272,Chen Tei-fu,74,Fashion & Retail,M,,,,USA
+1272,Abilio dos Santos Diniz,86,Fashion & Retail,M,,,,BRA
+1272,Marcel Erni,58,Finance & Investments,M,,,,CHE
+1272,Doris Fisher,91,Fashion & Retail,F,Cofounder,,Gap Inc.,USA
+1272,Gerald Ford,78,Finance & Investments,M,Managing Member,,Ford Financial Fund,USA
+1272,Alfred Gantner,55,Finance & Investments,M,,,,CHE
+1272,Paul Gauselmann & family,88,Gambling & Casinos,M,,,,DEU
+1272,Mitchell Goldhar,61,Real Estate,M,Owner,,SmartCentres,CAN
+1272,Peter Hargreaves,76,Finance & Investments,M,,,,GBR
+1272,Xuande Hua & family,79,Healthcare,M,,,,CHN
+1272,Kwek Leng Kee,68,Diversified,M,,,,SGP
+1272,Catherine Lozick,77,Manufacturing,F,,,,USA
+1272,Kalanithi Maran,57,Media & Entertainment,M,,,,IND
+1272,Jed McCaleb,48,Finance & Investments,M,,,,USA
+1272,Fatih Ozmen,65,Manufacturing,M,,,,USA
+1272,Tor Peterson,58,Metals & Mining,M,,,,CHE
+1272,Daniel Pritzker,63,Finance & Investments,M,,,,USA
+1272,Jinxing Qi,61,Real Estate,M,,,,CHN
+1272,Qiu Jianping & family,61,Manufacturing,M,,,,CHN
+1272,Rajan Raheja & family,68,Diversified,M,,,,IND
+1272,Matthias Reinhart,63,Finance & Investments,M,,,,CHE
+1272,Arnout Schuijff,55,Technology,M,,,,NLD
+1272,Hans Sy,67,Diversified,M,,,,PHL
+1272,Herbert Sy,66,Diversified,M,,,,PHL
+1272,Lucio Tan,88,Diversified,M,,,,PHL
+1272,Tsai Ming-kai,72,Technology,M,,,,TWN
+1272,Ted Turner,84,Media & Entertainment,M,,,,USA
+1272,David Walentas,84,Real Estate,M,,,,USA
+1272,Urs Wietlisbach,61,Finance & Investments,M,,,,CHE
+1272,Jerry Yang,54,Technology,M,Cofounder,,Yahoo!,USA
+1272,Yang Jianliang & family,53,Manufacturing,M,,,,CHN
+1272,Yang Weidong & family,54,Manufacturing,M,,,,CHN
+1272,Mortimer Zuckerman,85,Real Estate,M,Chairman and CEO,,Boston Properties,USA
+1312,John Armitage,63,Finance & Investments,M,,,Egerton Capital,GBR
+1312,Lee Bass,66,Energy,M,,,,USA
+1312,John Bicket,43,Technology,M,,,,USA
+1312,Sanjit Biswas,41,Technology,M,,,,USA
+1312,Timothy Boyle,73,Fashion & Retail,M,,,,USA
+1312,Morris Chang,91,Technology,M,,,,TWN
+1312,Chao Teng-hsiung,78,Real Estate,M,,,,TWN
+1312,Chu Lam Yiu,53,Manufacturing,F,,,,HKG
+1312,K. Dinesh,68,Technology,M,,,,IND
+1312,James Duff,62,Diversified,M,,,,USA
+1312,Thomas Duff,66,Diversified,M,,,,USA
+1312,Daniel Ek,40,Technology,M,CEO,,Spotify,SWE
+1312,John Fisher,61,Fashion & Retail,M,President,,"Pisces, Inc.",USA
+1312,Georg Haub,61,Fashion & Retail,M,,,,DEU
+1312,Erman Ilicak,55,Construction & Engineering,M,,,,TUR
+1312,Justin Ishbia,45,Finance & Investments,M,,,,USA
+1312,Long Jiang,49,Technology,M,,,,CHN
+1312,Bruce Karsh,67,Finance & Investments,M,President,,Oaktree Capital Group LLC,USA
+1312,Bom Kim,44,Technology,M,,,Coupang,KOR
+1312,Lam Kong,58,Healthcare,M,,,,HKG
+1312,Stephen Lansdown,70,Finance & Investments,M,,,,GGY
+1312,Hua Li,45,Finance & Investments,M,,,,CHN
+1312,Lim Kok Thay,71,Gambling & Casinos,M,,,,MYS
+1312,Kishore Mariwala,88,Food & Beverage,M,,,,IND
+1312,Clayton Mathile,82,Food & Beverage,M,"Investor, Philanthropist",,,USA
+1312,Mi Enhua,65,Fashion & Retail,M,,,,CHN
+1312,Vadim Moshkovich,55,Food & Beverage,M,,,,RUS
+1312,David Murdock,99,Food & Beverage,M,,,,USA
+1312,David Nahmad,75,Fashion & Retail,M,,,,USA
+1312,Lirio Parisotto,69,Finance & Investments,M,,,,BRA
+1312,Alberto Prada,69,Fashion & Retail,M,,,,ITA
+1312,Marina Prada,77,Fashion & Retail,F,,,,ITA
+1312,Filiz Sahenk,56,Diversified,F,,,,TUR
+1312,Richard Sands,72,Food & Beverage,M,,,,USA
+1312,Stephan Schmidheiny,75,Finance & Investments,M,,,,CHE
+1312,Alberto Siccardi & family,78,Healthcare,M,,,,CHE
+1312,Stefan Soloviev,47,Real Estate,M,,,,USA
+1312,Tang Yiu,89,Fashion & Retail,M,,,,HKG
+1312,Tian Ming,69,Technology,M,,,,CHN
+1312,T.Y. Tsai,70,Finance & Investments,M,,,,TWN
+1312,Jayshree Ullal,62,Technology,F,CEO,,Arista,USA
+1312,Georg von Opel,56,Finance & Investments,M,,,,GBR
+1312,Lang Walker,77,Real Estate,M,,,,AUS
+1312,Xicheng Wang & family,74,Manufacturing,M,,,,CHN
+1312,Wang Zhenhua,61,Real Estate,M,,,,CHN
+1312,Paul-Heinz Wesjohann & family,79,Food & Beverage,M,,,,DEU
+1312,Xie Bingkun & family,56,Fashion & Retail,M,,,,CHN
+1312,Xu Shugen,57,Manufacturing,M,,,,CHN
+1312,Christoph Zeller,65,Healthcare,M,,,,LIE
+1312,Zhang Jingzhang & family,87,Manufacturing,M,,,,CHN
+1368,George Argyros & family,86,Real Estate,M,Investor,,Arnel & Affiliates,USA
+1368,Brian Armstrong,40,Finance & Investments,M,,,,USA
+1368,Albert Avdolyan,52,Energy,M,,,,RUS
+1368,Sezai Bacaksiz,73,Diversified,M,,,,TUR
+1368,Aneel Bhusri,57,Technology,M,Investor,,Workday,USA
+1368,Brett Blundy,63,Fashion & Retail,M,,,,BHS
+1368,J. Hyatt Brown,85,Finance & Investments,M,,,,USA
+1368,Chen Jinxia,55,Finance & Investments,F,,,,CHN
+1368,Chen Xueli,71,Healthcare,M,,,,CHN
+1368,Dermot Desmond,72,Finance & Investments,M,,,,IRL
+1368,Dong Wei,52,Healthcare,M,,,,CHN
+1368,Tom Ford,61,Fashion & Retail,M,,,,USA
+1368,Fu Guangming & family,69,Food & Beverage,M,,,,CHN
+1368,Noam Gottesman,61,Finance & Investments,M,Chief Executive Officer,,TOMS Capital,USA
+1368,Jeffrey Gundlach,64,Finance & Investments,M,CEO,,DoubleLine Capital,USA
+1368,Hao Hong,67,Healthcare,M,,,,CHN
+1368,Shmuel Harlap,78,Automotive,M,,,,ISR
+1368,Hans-Werner Hector,83,Technology,M,,,,DEU
+1368,Lutz Mario Helmig & family,76,Healthcare,M,,,,DEU
+1368,Chulong Huang,64,Real Estate,M,,,,CHN
+1368,Thomas James,80,Finance & Investments,M,,,,USA
+1368,James Jannard,73,Fashion & Retail,M,,,,USA
+1368,Willis Johnson,75,Automotive,M,,,,USA
+1368,Lai Shixian,48,Fashion & Retail,M,,,,CHN
+1368,Chris Larsen,62,Finance & Investments,M,,,,USA
+1368,Solomon Lew,78,Fashion & Retail,M,,,,AUS
+1368,Liang Xinjun,54,Diversified,M,,,,SGP
+1368,Harald Link,68,Diversified,M,,,,THA
+1368,Max Lytvyn,43,Technology,M,,,,USA
+1368,Igor Makarov,60,Energy,M,,,,USA
+1368,Howard Marks,76,Finance & Investments,M,Chairman,,Oaktree Capital Group LLC,USA
+1368,Charles Munger,99,Finance & Investments,M,Vice Chairman,,Berkshire Hathaway Inc. (Cl A),USA
+1368,Adam Neumann,44,Real Estate,M,,,,USA
+1368,Thi Phuong Thao Nguyen,52,Diversified,F,Cofounder and Chairman,,Sovico Holdings,VNM
+1368,Ni Yongpei & family,71,Food & Beverage,M,,,,CHN
+1368,Heloise Pratt,60,Manufacturing,F,,,,AUS
+1368,Qi Xiangdong,52,Technology,M,,,,CHN
+1368,Phillip T. (Terry) Ragon,73,Technology,M,,,,USA
+1368,Prathap Reddy,91,Healthcare,M,,,,IND
+1368,Jerry Reinsdorf,87,Sports,M,,,,USA
+1368,Chad Richison,52,Technology,M,,,,USA
+1368,"Karl Scheufele, III. & family",84,Fashion & Retail,M,,,,CHE
+1368,Alice Schwartz,96,Healthcare,F,,,,USA
+1368,Alex Shevchenko,43,Technology,M,,,,CAN
+1368,Kavitark Ram Shriram,66,Technology,M,Investor,,Sherpalo Ventures,USA
+1368,Jeffrey Soffer,55,Real Estate,M,,,,USA
+1368,William Stone,67,Technology,M,,,,USA
+1368,Henry Swieca,65,Finance & Investments,M,Founder,,Talpion Fund Management,USA
+1368,Harley Sy,63,Diversified,M,,,,PHL
+1368,Teresita Sy-Coson,72,Diversified,F,,,,PHL
+1368,Katsumi Tada,77,Real Estate,M,,,,JPN
+1368,Tang Jinkui & family,67,Manufacturing,M,,,,CHN
+1368,Tang Xiao'ou,55,Technology,M,,,,CHN
+1368,Lottie Tham & family,73,Fashion & Retail,F,,,,SWE
+1368,Shamsheer Vayalil,46,Healthcare,M,,,,ARE
+1368,Radha Vembu,50,Technology,F,,,,IND
+1368,Wang Wenmo,66,Fashion & Retail,M,,,,CHN
+1368,Wang Zhenghua,78,Service,M,,,,CHN
+1368,David Wertheim,65,Food & Beverage,M,,,,ISR
+1368,Kai Wu,55,Energy,M,,,,CHN
+1368,Xu Yingzhuo,55,Food & Beverage,M,,,,CHN
+1368,Yeung Kin-man,59,Manufacturing,M,,,,HKG
+1368,Huijiao Yu,57,Logistics,M,Founder and Chairman,,Shanghai YTO Express (Logistics),CHN
+1368,Oren Zeev,58,Finance & Investments,M,,,,USA
+1368,Clayton Zekelman,54,Manufacturing,M,,,,CAN
+1368,Zhao Fenggang,57,Energy,M,,,,CHN
+1434,Alex Beard,55,Metals & Mining,M,,,,GBR
+1434,Travis Boersma,52,Food & Beverage,M,,,,USA
+1434,William Boyd & family,91,Gambling & Casinos,M,,,,USA
+1434,Anand Burman,70,Food & Beverage,M,,,,IND
+1434,Cao Ji,71,Manufacturing,M,,,,CHN
+1434,Bruce Cheng,86,Technology,M,,,,TWN
+1434,Chi Yufeng,52,Technology,M,,,,CHN
+1434,Daniel Chiu,62,Energy,M,,,,HKG
+1434,Beda Diethelm,82,Healthcare,M,,,,CHE
+1434,Domenico Dolce,64,Fashion & Retail,M,,,,ITA
+1434,Ralph Dommermuth,59,Technology,M,,,,DEU
+1434,Georgi Domuschiev,50,Diversified,M,,,,GBR
+1434,Kiril Domuschiev,53,Diversified,M,,,,GBR
+1434,Bob Ell,78,Real Estate,M,,,,AUS
+1434,Paul Foster,65,Energy,M,Chairman,,Western Refining,USA
+1434,Stefano Gabbana,60,Fashion & Retail,M,,,,ITA
+1434,Xingjiang Gao,59,Manufacturing,M,,,,CHN
+1434,Gordon Getty,89,Energy,M,President and Chairman,,Ann & Gordon Getty Foundation,USA
+1434,Kamal Ghaffarian,64,Energy,M,,,,USA
+1434,Dennis Gillings,78,Healthcare,M,,,,USA
+1434,Harsh Goenka,65,Diversified,M,,,,IND
+1434,Sanjiv Goenka,62,Diversified,M,,,,IND
+1434,Jane Goldman,67,Real Estate,F,,,,USA
+1434,Bahaa Hariri,56,Real Estate,M,,,,CHE
+1434,Hortensia Herrero,72,Fashion & Retail,F,,,,ESP
+1434,Douglas Hsu,80,Diversified,M,,,,TWN
+1434,Huang Min,49,Manufacturing,M,,,,CHN
+1434,Jared Isaacman,40,Technology,M,,,,USA
+1434,Eugene Kaspersky,57,Technology,M,,,,RUS
+1434,Artem Khachatryan,48,Fashion & Retail,M,,,,CYP
+1434,Andrei Krivenko,47,Food & Beverage,M,,,,RUS
+1434,Thomas Kwok,71,Real Estate,M,,,,HKG
+1434,Marc Lasry,62,Finance & Investments,M,Founder,,Avenue Capital Group,USA
+1434,Theodore Leonsis,67,Sports,M,,,,USA
+1434,Lin Chang Su-O,82,Real Estate,F,,,,TWN
+1434,Liu Chengyu & family,60,Manufacturing,M,,,,CHN
+1434,Sergey Lomakin,49,Fashion & Retail,M,,,,CYP
+1434,Daniel Lubetzky,54,Food & Beverage,M,,,,USA
+1434,Anand Mahindra,67,Diversified,M,,,,IND
+1434,Rafique Malik,72,Fashion & Retail,M,,,,IND
+1434,Katarina Martinson,41,Diversified,F,,,,SWE
+1434,Kiran Mazumdar-Shaw,70,Healthcare,F,Chair,,Biocon,IND
+1434,Nirmal Minda,65,Automotive,M,,,,IND
+1434,Mu Rongjun,43,Technology,M,,,,CHN
+1434,Eugene Murtagh,80,Manufacturing,M,,,,IRL
+1434,Alexander Nesis,60,Finance & Investments,M,,,,RUS
+1434,Zugen Ni,66,Manufacturing,M,,,,CHN
+1434,Florentino Perez,76,Construction & Engineering,M,,,,ESP
+1434,Victor Pinchuk,62,Metals & Mining,M,,,,UKR
+1434,Leonid Radvinsky,40,Technology,M,,,,USA
+1434,Raveendran Byju,41,Technology,M,,,,IND
+1434,P.P. Reddy,65,Construction & Engineering,M,,,,IND
+1434,Richard Saghian,41,Fashion & Retail,M,,,,USA
+1434,Shi Yifeng,49,Healthcare,M,,,,CHN
+1434,Thaksin Shinawatra,73,Finance & Investments,M,,,,ARE
+1434,Shu Ping,53,Food & Beverage,F,,,,SGP
+1434,Timothy Springer,75,Healthcare,M,,,,USA
+1434,Venu Srinivasan,70,Automotive,M,,,,IND
+1434,Edward Stack,68,Fashion & Retail,M,Chairman and CEO,,Dick's Sporting Goods,USA
+1434,Sun Mengquan & family,73,Food & Beverage,M,,,,CHN
+1434,Alexander Svetakov,55,Finance & Investments,M,,,,RUS
+1434,Torsten Toeller,56,Fashion & Retail,M,,,,DEU
+1434,Barbara Tyson,74,Food & Beverage,F,,,,USA
+1434,Hamdi Ulukaya,50,Food & Beverage,M,Founder and CEO,,Chobani,USA
+1434,Wang Linpeng,54,Construction & Engineering,M,,,,CHN
+1434,Wei Ing-Chou,69,Food & Beverage,M,,,,CHN
+1434,Wei Yin-Chun,66,Food & Beverage,M,,,,TWN
+1434,Wei Yin-Heng,64,Food & Beverage,M,,,,CHN
+1434,Wei Ying-Chiao,68,Food & Beverage,M,,,,TWN
+1434,Elaine Wynn,80,Gambling & Casinos,F,Board Member,,"Wynn Las Vegas, LLC",USA
+1434,Xu Xudong & family,53,Automotive,M,,,,CHN
+1434,Michael Ying,73,Fashion & Retail,M,,,,HKG
+1434,Yu Qibing & family,57,Manufacturing,M,,,,CHN
+1434,Yuan Fugen & family,72,Manufacturing,M,,,,CHN
+1434,Zhang Ning & family,49,Manufacturing,F,,,,CHN
+1434,Zhao Tao,57,Healthcare,M,,,,CHN
+1516,Anu Aga,80,Construction & Engineering,F,,,,IND
+1516,Mohamed Al Fayed,94,Fashion & Retail,M,,,,GBR
+1516,Andrey Andreev,49,Technology,M,,,,GBR
+1516,Michael Ashcroft,77,Finance & Investments,M,,,,TCA
+1516,Pavel Baudis,62,Technology,M,,,,CZE
+1516,Wilhelm Beier & family,66,Healthcare,M,,,,DEU
+1516,Cao Jianwei,44,Manufacturing,M,,,,CHN
+1516,Huwen Chen,52,Manufacturing,M,,,,CHN
+1516,Phongthep Chiaravanont,71,Diversified,M,,,,THA
+1516,Dou Zhenggang,69,Diversified,M,,,,CHN
+1516,Maria Franca Fissolo,88,Food & Beverage,F,,,,MCO
+1516,William Franke,85,Diversified,M,,,,USA
+1516,Mario Germano Giuliani,51,Healthcare,M,,,,MCO
+1516,Amy Goldman Fowler,68,Real Estate,F,,,,USA
+1516,John Hancock,47,Metals & Mining,M,,,,GBR
+1516,Hu Yangzhong,58,Technology,M,,,,CHN
+1516,Huang Dawen,62,Manufacturing,M,,,,HKG
+1516,Huang Qiaoling,64,Media & Entertainment,M,,,,CHN
+1516,Rajiv Jain,55,Finance & Investments,M,,,,USA
+1516,Michael Jordan,60,Sports,M,Athlete,,,USA
+1516,Diane Kemper,77,Real Estate,F,,,,USA
+1516,Shlomo Kramer,57,Technology,M,,,,ISR
+1516,Heikki Kyostila,77,Healthcare,M,,,,FIN
+1516,Martin Lau,50,Technology,M,,,,HKG
+1516,Li Min,57,Technology,M,,,,CHN
+1516,Liang Rubo,40,Technology,M,,,,CHN
+1516,Liang Zhaoxian,58,Manufacturing,M,,,,CHN
+1516,Lin Fanlian,61,Energy,M,,,,CHN
+1516,Aloke Lohia,64,Manufacturing,M,,,,THA
+1516,Bill Malhotra,73,Real Estate,M,,,,CAN
+1516,Alexander Mamut,63,Finance & Investments,M,,,,ISR
+1516,Craig McCaw,73,Telecom,M,,,,USA
+1516,Cunhui Nan,59,Manufacturing,M,,,,CHN
+1516,Tengyun Nie & family,47,Service,M,,,,CHN
+1516,Oei Hong Leong,75,Finance & Investments,M,,,,SGP
+1516,Clive Palmer,69,Metals & Mining,M,,,,AUS
+1516,Matthew Prince,48,Technology,M,,,,USA
+1516,Linda Pritzker,69,Service,F,,,,USA
+1516,P.V. Krishna Reddy,53,Construction & Engineering,M,,,,IND
+1516,Bianca Rinehart,46,Metals & Mining,F,,,,AUS
+1516,Ginia Rinehart,36,Metals & Mining,F,,,,AUS
+1516,T. Denny Sanford,87,Finance & Investments,M,,,,USA
+1516,Bhadresh Shah,71,Manufacturing,M,,,,IND
+1516,Zygmunt Solorz-Zak,66,Media & Entertainment,M,,,,POL
+1516,Sylvia Stroeher,67,Fashion & Retail,F,,,,DEU
+1516,Otto Toto Sugiri,69,Technology,M,,,,IDN
+1516,Larry Tanenbaum,77,Sports,M,,,,CAN
+1516,Wichai Thongtang,76,Finance & Investments,M,,,,THA
+1516,Ion Tiriac,83,Finance & Investments,M,,,,ROU
+1516,Hope Welker,37,Metals & Mining,F,,,,USA
+1516,William Young,82,Manufacturing,M,,,,USA
+1516,Zhang Fan,57,Technology,M,,,,CHN
+1516,Shilong Zhang & family,57,Technology,M,,,,CHN
+1516,Zhang Wanzhen,73,Manufacturing,M,,,,CHN
+1516,Hongfei Zhao,48,Technology,M,,,,CHN
+1516,Zhou Jian,46,Energy,M,,,,CHN
+1516,Zhu Yiwen & family,59,Healthcare,M,,,,CHN
+1575,Roberto Angelini Rossi,74,Diversified,M,,,,CHL
+1575,Mika Anttonen,56,Energy,M,,,,FIN
+1575,David Blitzer,53,Sports,M,,,,USA
+1575,Julio Bozano,87,Finance & Investments,M,,,,BRA
+1575,Nikolai Buinov,55,Energy,M,,,,RUS
+1575,Nicola Bulgari,82,Fashion & Retail,M,,,,ITA
+1575,"Howard Butt, III. & family",71,Fashion & Retail,M,,,,USA
+1575,Jianxing Che,56,Fashion & Retail,M,,,,CHN
+1575,Huxiong Chen,52,Manufacturing,M,,,,CHN
+1575,Chen Zhisong,57,Technology,M,,,,CHN
+1575,Prathip Chiravanond,74,Diversified,M,,,,THA
+1575,Alexandra Daitch,60,Food & Beverage,F,,,,USA
+1575,Sol Daurella,57,Food & Beverage,F,,,,ESP
+1575,Mark Davis,67,Sports,M,,,,USA
+1575,James Dinan,63,Finance & Investments,M,Founder,,York Capital Management,USA
+1575,Dong Fan,53,Healthcare,M,,,,CHN
+1575,Bulent Eczacibasi,73,Diversified,M,,,,TUR
+1575,Faruk Eczacibasi,68,Diversified,M,,,,TUR
+1575,Eduardo Eurnekian,90,Diversified,M,,,,ARG
+1575,David Fong,65,Real Estate,M,,,,HKG
+1575,Guo Zhenyu & family,59,Fashion & Retail,M,,,,CHN
+1575,Surjit Kumar Gupta,81,Manufacturing,M,,,,IND
+1575,Caroline Hagen Kjos,39,Diversified,F,,,,CHE
+1575,Roberto Hernandez Ramirez,81,Finance & Investments,M,,,,MEX
+1575,Reid Hoffman,55,Technology,M,Partner,,Greylock,USA
+1575,Hu Rongda & family,64,Manufacturing,M,,,,CHN
+1575,"B. Wayne Hughes, Jr.",63,Real Estate,M,,,,USA
+1575,Hui Wing Mau,72,Real Estate,M,,,,HKG
+1575,Scott Kapnick,64,Finance & Investments,M,Investor,,,USA
+1575,Richard Kayne,77,Finance & Investments,M,,,,USA
+1575,Dominika Kulczyk,45,Finance & Investments,F,,,,GBR
+1575,Edward Lampert,60,Finance & Investments,M,Founder,,ESL Investments Inc.,USA
+1575,James Leprino,85,Food & Beverage,M,Chairman,,Leprino Foods,USA
+1575,David Lichtenstein,61,Real Estate,M,,,,USA
+1575,Lin Dingqiang & family,56,Real Estate,M,,,,CHN
+1575,Sarah MacMillan,69,Food & Beverage,F,,,,USA
+1575,Strive Masiyiwa,62,Telecom,M,,,,GBR
+1575,Robert Miller,89,Fashion & Retail,M,,,,HKG
+1575,Simon Nixon,55,Technology,M,,,,GBR
+1575,Kentaro Ogawa,74,Food & Beverage,M,,,,JPN
+1575,Ajay Parekh,65,Manufacturing,M,,,,IND
+1575,Narendrakumar Parekh,84,Manufacturing,M,,,,IND
+1575,Jennifer Pritzker,72,Finance & Investments,F,CEO,,Tawani Enterprises,USA
+1575,G. Rajendran,80,Fashion & Retail,M,,,,IND
+1575,Ren Jianhua,66,Manufacturing,M,,,,CHN
+1575,Larry Robbins,53,Finance & Investments,M,Investor,,Glenview Capital Management,USA
+1575,Dwight Schar,81,Construction & Engineering,M,,,,USA
+1575,Qinxiang Shao,68,Manufacturing,M,,,,CHN
+1575,Hua Shen,60,Technology,M,,,,CHN
+1575,Shi Wen-long,95,Manufacturing,M,,,,TWN
+1575,Peter Sondakh,73,Finance & Investments,M,,,,IDN
+1575,Lucy Stitzer,63,Food & Beverage,F,,,,USA
+1575,Elizabeth Sy,70,Diversified,F,,,,PHL
+1575,Hermanto Tanoko,60,Manufacturing,M,,,,IDN
+1575,Mehmet Sinan Tara,64,Construction & Engineering,M,,,,TUR
+1575,Masateru Uno & family,76,Fashion & Retail,M,,,,JPN
+1575,Vardis Vardinoyannis & family,90,Energy,M,,,,GRC
+1575,Jitendra Virwani,57,Real Estate,M,,,,IND
+1575,Wang Chaobin,67,Real Estate,M,,,,CHN
+1575,Wang Ren-sheng,91,Fashion & Retail,M,,,,CHN
+1575,Charlotte Colket Weber,80,Food & Beverage,F,Director,,Campbell Soup,USA
+1575,Xie Juhua & family,72,Healthcare,F,,,,CHN
+1575,Chuanhua Xu & family,88,Manufacturing,M,Founder,,Transfar Group,CHN
+1575,Gavril Yushvaev & family,65,Finance & Investments,M,,,,ISR
+1575,Zhang Hongwei,68,Diversified,M,,,,CHN
+1575,Anita Zucker,71,Manufacturing,F,,,,USA
+1647,Cameron Adams,43,Technology,M,,,,AUS
+1647,Will Adderley,51,Fashion & Retail,M,,,,GBR
+1647,Faisal Bin Qassim Al Thani,75,Diversified,M,,,,QAT
+1647,Leslie Alexander,79,Sports,M,,,,USA
+1647,Masaaki Arai,57,Real Estate,M,,,,JPN
+1647,Sabrina Benetton,49,Fashion & Retail,F,,,,ITA
+1647,Sanjeev Bikhchandani,59,Technology,M,,,,IND
+1647,O. Francis Biondi,58,Finance & Investments,M,,,,USA
+1647,Alejandro Bulgheroni,78,Energy,M,,,,URY
+1647,R.G. Chandramogan,74,Food & Beverage,M,,,,IND
+1647,Binod Chaudhary,67,Diversified,M,,,,NPL
+1647,Parker Conrad,42,Technology,M,,,,USA
+1647,Tim Cook,62,Technology,M,CEO,,Apple,USA
+1647,Mark Coombs,62,Finance & Investments,M,,,,GBR
+1647,John de Mol,68,Media & Entertainment,M,,,,NLD
+1647,D. Leopoldo Del Pino,60,Construction & Engineering,M,,,,ESP
+1647,Diao Zhizhong,59,Technology,M,,,,CHN
+1647,Robert Duggan,78,Healthcare,M,,,,USA
+1647,James France,78,Sports,M,,,,USA
+1647,Phillip Frost,86,Healthcare,M,,,,USA
+1647,Jayme Garfinkel & family,77,Finance & Investments,M,,,,BRA
+1647,Christopher Goldsbury,80,Food & Beverage,M,Chief Executive Officer,,Silver Ventures,USA
+1647,Yusuf Hamied,86,Healthcare,M,,,,IND
+1647,Brian Higgins,58,Finance & Investments,M,Investor,,King Street Capital Management,USA
+1647,Wei Huang,63,Real Estate,M,,,,CHN
+1647,Yintai Jiang & family,72,Automotive,M,,,,CHN
+1647,Lei Jin,57,Healthcare,M,,,,CHN
+1647,Jin Lei & family,68,Healthcare,M,,,,CHN
+1647,Valentin Kipyatkov,46,Technology,M,,,,CYP
+1647,Koo Kwang-mo,45,Diversified,M,,,,KOR
+1647,George Kurtz,52,Technology,M,,,,USA
+1647,Joe Lacob,67,Sports,M,,,,USA
+1647,Joe Lau,33,Technology,M,,,,USA
+1647,Louise Lindh,43,Diversified,F,,,,SWE
+1647,Luo Yangyong & family,47,Metals & Mining,M,,,,CHN
+1647,Joao Roberto Marinho,69,Media & Entertainment,M,,,,BRA
+1647,Jose Roberto Marinho,67,Media & Entertainment,M,,,,BRA
+1647,Roberto Irineu Marinho,75,Media & Entertainment,M,,,,BRA
+1647,Gary Michelson,74,Healthcare,M,,,,USA
+1647,Robert G. Miller,77,Technology,M,Founder,,Future Electronics,CAN
+1647,David Mindus,51,Real Estate,M,,,,SWE
+1647,Adriaan Mol,39,Technology,M,,,,NLD
+1647,Mofatraj Munot,78,Real Estate,M,,,,IND
+1647,Ezra Nahmad,77,Finance & Investments,M,Investor,,,MCO
+1647,Satyanarayan Nuwal,70,Manufacturing,M,,,,IND
+1647,Nihat Ozdemir,72,Diversified,M,,,,TUR
+1647,Benjamin Zhengmin Pan & family,53,Technology,M,,,,CHN
+1647,Pierre Karl Péladeau,61,Media & Entertainment,M,,,,CAN
+1647,Ronald Perelman,80,Finance & Investments,M,,,,USA
+1647,Olivier Pomel,46,Technology,M,Cofounder,,Datadog,USA
+1647,Krit Ratanarak,76,Media & Entertainment,M,,,,THA
+1647,Vinod Saraf,70,Manufacturing,M,,,,IND
+1647,Anatoly Sedykh,58,Metals & Mining,M,,,,RUS
+1647,Genhuo Shao,57,Food & Beverage,M,,,,CHN
+1647,Shen Xiqiang & family,75,Energy,M,,,,CHN
+1647,S.D. Shibulal,68,Technology,M,,,,IND
+1647,Suh Kyung-bae,60,Fashion & Retail,M,Chairman,,Amorepacific Corp. (New),KOR
+1647,Bambang Sutantio,64,Food & Beverage,M,,,,IDN
+1647,Sze Man Bok,73,Manufacturing,M,,,,CHN
+1647,Jim Thompson,83,Logistics,M,,,,HKG
+1647,Tran Dinh Long,62,Manufacturing,M,,,,VNM
+1647,Alan Trefler,67,Technology,M,,,,USA
+1647,Riaz Valani,46,Finance & Investments,M,,,,USA
+1647,Pieter van der Does,53,Technology,M,,,,NLD
+1647,Martin Viessmann,69,Manufacturing,M,,,,DEU
+1647,Nikil Viswanathan,35,Technology,M,,,,USA
+1647,Todd Wagner,62,Media & Entertainment,M,,,,USA
+1647,Evan Williams,51,Technology,M,Cofounder and Director,,Twitter,USA
+1647,Kie Chie Wong,75,Metals & Mining,M,,,,AUS
+1647,Thomas Wu,72,Finance & Investments,M,,,,TWN
+1647,Wu Yingming,56,Energy,M,,,,CHN
+1647,Amy Wyss,52,Healthcare,F,,,,USA
+1647,Yan Zhi,50,Real Estate,M,,,,CHN
+1647,Yoshiaki Yoshida,82,Fashion & Retail,M,,,,JPN
+1647,Alan Zekelman,60,Manufacturing,M,,,,USA
+1647,Zhang Li,70,Real Estate,M,,,,CHN
+1725,Amy Adams Strunk,67,Sports,F,Owner,,Tennessee Titans,USA
+1725,Marc Andreessen,51,Finance & Investments,M,Investor,,Andreessen Horowitz,USA
+1725,Giovanni Arvedi,85,Metals & Mining,M,,,,ITA
+1725,Lesley Bamberger,57,Real Estate,M,,,,NLD
+1725,Bang Si-hyuk,50,Media & Entertainment,M,,,,KOR
+1725,David Booth,77,Finance & Investments,M,Chairman and CEO,,Dimensional Fund Advisors,USA
+1725,Jim Breyer,61,Technology,M,Investor,,Breyer Capital,USA
+1725,Kommer Damen,79,Manufacturing,M,,,,NLD
+1725,Carl DeSantis,83,Food & Beverage,M,,,,USA
+1725,Marek Dospiva,53,Finance & Investments,M,,,,CZE
+1725,Keith Dunleavy & family,53,Healthcare,M,,,,USA
+1725,John Elkann,47,Finance & Investments,M,,,,ITA
+1725,Yasuhiro Fukushima,75,Media & Entertainment,M,,,,JPN
+1725,Mario Gabelli,81,Finance & Investments,M,,,,USA
+1725,Rolf Gerling,68,Finance & Investments,M,,,,CHE
+1725,John Goff,67,Real Estate,M,,,,USA
+1725,Alexandre Grendene Bartelle,73,Fashion & Retail,M,,,,BRA
+1725,Gerry Harvey,83,Fashion & Retail,M,,,,AUS
+1725,He Zhaoxi,49,Technology,M,,,,CHN
+1725,William Heinecke,73,Real Estate,M,,,,THA
+1725,Jay Hennick,66,Finance & Investments,M,,,,CAN
+1725,Ilkka Herlin,64,Manufacturing,M,,,,FIN
+1725,Asok Kumar Hiranandani,68,Real Estate,M,,,,SGP
+1725,Hal Jackman,90,Finance & Investments,M,,,,CAN
+1725,Pavan Jain,71,Manufacturing,M,,,,IND
+1725,Keeree Kanjanapas,72,Real Estate,M,,,,THA
+1725,Osman Kibar,52,Healthcare,M,"Founder, CEO",,Samumed,USA
+1725,Kim Chang-soo,62,Fashion & Retail,M,,,,KOR
+1725,Mustafa Kucuk,59,Fashion & Retail,M,,,,TUR
+1725,Christopher Kwok,37,Real Estate,M,,,,HKG
+1725,Edward Kwok,42,Real Estate,M,,,,HKG
+1725,Lai Jianfa,53,Logistics,M,,,,CHN
+1725,Lau Cho Kun,87,Diversified,M,,,,MYS
+1725,Alexis Lê-Quôc,48,Technology,M,Cofounder,,Datadog,USA
+1725,Lei Jufang,70,Healthcare,F,,,,CHN
+1725,James Leininger,78,Healthcare,M,,,,USA
+1725,Xuhui Li,54,Food & Beverage,F,,,,CHN
+1725,Jimmy John Liautaud,59,Food & Beverage,M,,,,USA
+1725,Lin Lairong & family,54,Metals & Mining,M,,,,CHN
+1725,Palmer Luckey,30,Technology,M,Entrepreneur,,Oculus VR,USA
+1725,Duncan MacMillan,85,Finance & Investments,M,,,,USA
+1725,Yusaku Maezawa,47,Technology,M,,,,JPN
+1725,Ilson Mateus & family,60,Fashion & Retail,M,,,,BRA
+1725,Meng Qingshan & family,74,Manufacturing,M,,,,CHN
+1725,Alberto Palatchi,73,Fashion & Retail,M,,,,ESP
+1725,Mrudula Parekh,75,Manufacturing,F,,,,IND
+1725,Dragos Paval,56,Fashion & Retail,M,,,,ROU
+1725,Jorge Perez,73,Real Estate,M,,,,USA
+1725,Dmitry Pumpyansky,59,Metals & Mining,M,,,,RUS
+1725,Jinsheng Ren & family,60,Healthcare,M,,,,CHN
+1725,Brian Roberts,63,Media & Entertainment,M,CEO,,Comcast,USA
+1725,"Joe Rogers, Jr.",76,Food & Beverage,M,,,,USA
+1725,Ruan Shuilong & family,87,Manufacturing,M,,,,CHN
+1725,Paul Saville,67,Real Estate,M,,,,USA
+1725,Ivan Savvidis & family,64,Diversified,M,,,,RUS
+1725,Keiichi Shibahara,58,Healthcare,M,,,,JPN
+1725,Rajju Shroff,89,Manufacturing,M,,,,IND
+1725,Sun Huaiqing & family,53,Fashion & Retail,M,,,,CHN
+1725,Jonathan Tisch,69,Diversified,M,,,,USA
+1725,Kenneth Tuchman,63,Service,M,,,,USA
+1725,Wang Chou-hsiong,82,Manufacturing,M,,,,TWN
+1725,Wang Minwen,59,Technology,M,,,,CHN
+1725,Tom Werner,72,Sports,M,,,,USA
+1725,Stephen Winn,76,Real Estate,M,,,,USA
+1725,Ian Wood & family,80,Energy,M,,,,GBR
+1725,Wu Lanlan & family,49,Manufacturing,F,,,,CHN
+1725,Xu Bingzhong,49,Food & Beverage,M,,,,CHN
+1725,Yang Xuegang,58,Manufacturing,M,,,,CHN
+1725,Vladimir Yevtushenkov,74,Telecom,M,,,,RUS
+1725,David Zalik,49,Technology,M,CEO,,GreenSky,USA
+1725,Zhang Xiaojuan,53,Logistics,F,,,,CHN
+1725,Zheng Xiaodong,59,Manufacturing,M,,,,CHN
+1725,Zhong Ruonong & family,60,Manufacturing,F,,,,CHN
+1804,Noubar Afeyan,60,Healthcare,M,,,,USA
+1804,Syed Mokhtar AlBukhary,71,Construction & Engineering,M,,,,MYS
+1804,"Herbert Allen, Jr. & family",83,Finance & Investments,M,,,,USA
+1804,Vasily Anisimov,71,Metals & Mining,M,,,,CHE
+1804,Clifford Asness,56,Finance & Investments,M,,,AQR Capital Management,USA
+1804,Louis Bacon,66,Finance & Investments,M,Founder,,"Moore Capital Management, LP",USA
+1804,Bai Baokun,53,Manufacturing,M,,,,CHN
+1804,Christian Birkenstock,50,Fashion & Retail,M,,,,AUT
+1804,Josef Boquoi & family,89,Food & Beverage,M,,,,DEU
+1804,Cai Huabo,47,Technology,M,,,,CHN
+1804,Chen Tianshi,38,Technology,M,,,,CHN
+1804,Chen Yung-tai,87,Real Estate,M,,,,TWN
+1804,Chey Tae-won,62,Technology,M,,,SK Holdings,KOR
+1804,Ivan Chrenko,55,Real Estate,M,,,,SVK
+1804,Robert Clark,64,Construction & Engineering,M,,,,USA
+1804,Jack Cockwell,82,Finance & Investments,M,,,,CAN
+1804,Tench Coxe,65,Finance & Investments,M,,,,USA
+1804,Jim Crane,69,Sports,M,,,,USA
+1804,Jamie Dimon,67,Finance & Investments,M,CEO,,JPMorgan Chase & Co.,USA
+1804,Daniel Dines,51,Technology,M,,,,USA
+1804,Alfredo Egydio Arruda Villela Filho,53,Finance & Investments,M,,,,BRA
+1804,Gary Fegel,49,Metals & Mining,M,,,,CHE
+1804,"William Foley, II.",78,Finance & Investments,M,,,,USA
+1804,Richard Fortin,74,Fashion & Retail,M,,,,CAN
+1804,Gao Yi & family,54,Healthcare,M,,,,CHN
+1804,Giammaria Giuliani,45,Healthcare,M,,,,CHE
+1804,Bill Gross,78,Finance & Investments,M,Cofounder and Co-Chief Investment Officer,,Pacific Investment Management Company LLC,USA
+1804,Sue Gross,73,Finance & Investments,F,,,,USA
+1804,Irving Grousbeck & family,88,Sports,M,,,,USA
+1804,Timothy Headington,72,Energy,M,,,,USA
+1804,Ilona Herlin,58,Manufacturing,F,,,,FIN
+1804,David Hoffmann,70,Diversified,M,,,,USA
+1804,Stanley Hubbard,89,Media & Entertainment,M,Chairman and CEO,,"Hubbard Broadcasting, Inc.",USA
+1804,Hui Lin Chit,69,Manufacturing,M,,,,CHN
+1804,Tianjiang Jia & family,60,Metals & Mining,M,,,,CHN
+1804,Zhaobai Jiang,59,Real Estate,M,,,,CHN
+1804,Sergei Katsiev,65,Fashion & Retail,M,,,,RUS
+1804,Randal J. Kirk,69,Healthcare,M,,,,USA
+1804,William Koch,82,Energy,M,,,,USA
+1804,Pyotr Kondrashev,73,Manufacturing,M,,,,AUT
+1804,Eiichi Kuriwada,76,Logistics,M,,,,JPN
+1804,Robert Langer,74,Healthcare,M,,,,USA
+1804,Anthony Langley,68,Diversified,M,,,,GBR
+1804,Marianna Latsis & family,70,Diversified,F,,,,GRC
+1804,Lee Yeow Seng,45,Real Estate,M,,,,MYS
+1804,Li Sze Lim,66,Real Estate,M,,,,CHN
+1804,Li Wa,57,Real Estate,M,,,,CHN
+1804,Li Weiwei,46,Technology,M,,,,CHN
+1804,Liang Qin & family,51,Technology,F,,,,CHN
+1804,Vincent Lo,75,Real Estate,M,,,,HKG
+1804,Terence (Terry) Matthews,80,Telecom,M,,,,CAN
+1804,Jim McKelvey,57,Technology,M,,,,USA
+1804,P.N.C. Menon,74,Real Estate,M,,,,ARE
+1804,Massimo Moratti,77,Energy,M,,,,ITA
+1804,Liora Ofer,69,Finance & Investments,F,,,,ISR
+1804,Stefan Pierer,66,Automotive,M,,,,AUT
+1804,Andreas Pohl,58,Finance & Investments,M,,,,DEU
+1804,"Reinfried Pohl, Jr.",63,Finance & Investments,M,,,,DEU
+1804,Michael Polsky,74,Energy,M,,,,USA
+1804,Francisco Jose Riberas Mera,58,Manufacturing,M,,,,ESP
+1804,Juan Maria Riberas Mera,54,Metals & Mining,M,,,,ESP
+1804,Andres Santo Domingo,44,Food & Beverage,M,,,,USA
+1804,Sathien Sathientham,68,Food & Beverage,M,,,,THA
+1804,Shang Xiaobo & family,49,Manufacturing,M,,,,CHN
+1804,Yuri Shefler,55,Food & Beverage,M,,,,CHE
+1804,Evgeny (Eugene) Shvidler,59,Metals & Mining,M,,,,GBR
+1804,Ryan Smith,44,Technology,M,Co-Founder & CEO,,Qualtrics,USA
+1804,Zakhar Smushkin,61,Diversified,M,,,,RUS
+1804,Peter Sperling,63,Service,M,,,,USA
+1804,Laurie Tisch,72,Diversified,F,,,,USA
+1804,Steven Tisch,74,Diversified,M,,,,USA
+1804,Michael Tojner,57,Manufacturing,M,,,,AUT
+1804,August Troendle,67,Healthcare,M,,,,USA
+1804,Sekar Vembu,51,Technology,M,,,,IND
+1804,Chris Wallin,70,Energy,M,,,,AUS
+1804,Wang Changtian,57,Media & Entertainment,M,,,,CHN
+1804,Ning Wang & family,36,Media & Entertainment,M,,,,CHN
+1804,Scott Watterson,67,Technology,M,,,,USA
+1804,Dan Wilks,66,Energy,M,,,,USA
+1804,Alan Wilson,82,Fashion & Retail,M,,,,AUS
+1804,Bruce Wilson,76,Fashion & Retail,M,,,,AUS
+1804,John Wilson,85,Fashion & Retail,M,,,,AUS
+1804,Anthony Wood,57,Technology,M,,,,USA
+1804,Wu Ying,58,Manufacturing,M,,,,CHN
+1804,Wu Yulan,53,Healthcare,F,,,,CHN
+1804,Zhongyi Wu,49,Technology,M,,,,CHN
+1804,Xiang Guangming & family,59,Manufacturing,M,,,,CHN
+1804,Xue Xiangdong & family,64,Technology,M,,,,CHN
+1804,George Yancopoulos,63,Healthcare,M,,,,USA
+1804,Steven Meng Yang & family,40,Technology,M,,,,CHN
+1804,Ye Fan & family,52,Automotive,M,,,,CHN
+1804,Yi Dasheng,62,Diversified,M,,,,CHN
+1804,Yu Lili,55,Manufacturing,F,,,,CHN
+1804,Zeng Kaitian,48,Technology,M,,,,CHN
+1804,Zhang Xuexin & family,75,Metals & Mining,M,,,,CHN
+1804,Yubai Zhang,58,Food & Beverage,M,,,,CHN
+1804,Fredrik Österberg,52,Gambling & Casinos,M,,,,SWE
+1905,Shiv Kishan Agrawal,82,Food & Beverage,M,,,,IND
+1905,Aziz Akhannouch & family,62,Diversified,M,,,,MAR
+1905,Hamdi Akin & family,68,Diversified,M,,,,TUR
+1905,Nerio Alessandri,61,Manufacturing,M,,,,ITA
+1905,Patricia Angelini Rossi,68,Diversified,F,,,,CHL
+1905,Mori Arkin,70,Healthcare,M,,,,ISR
+1905,Barbara Benetton,53,Fashion & Retail,F,,,,ITA
+1905,Angela Bennett,79,Metals & Mining,F,,,,AUS
+1905,Zadik Bino & family,79,Diversified,M,,,,ISR
+1905,Paolo Bulgari,85,Fashion & Retail,M,,,,ITA
+1905,Saket Burman,46,Food & Beverage,M,,,,ARE
+1905,Ahmet Calik,65,Diversified,M,,,,TUR
+1905,Safra Catz,61,Technology,F,CEO,,Oracle,USA
+1905,Chang Kuo-Hua,68,Logistics,M,,,,TWN
+1905,Chu Jian,60,Manufacturing,M,,,,CHN
+1905,Sandor Csanyi,70,Diversified,M,,,,HUN
+1905,Ana Lucia de Mattos Barretto Villela,49,Finance & Investments,F,,,,BRA
+1905,Federico De Nora,55,Manufacturing,M,,,,ITA
+1905,Bharat Desai,70,Technology,M,Chairman and Co-founder,,Syntel,USA
+1905,Mohammed Dewji,47,Diversified,M,,,,TZA
+1905,Egon Durban,49,Finance & Investments,M,,,,USA
+1905,Fu Mingkang & family,60,Manufacturing,M,,,,CHN
+1905,Alan Gerry,94,Media & Entertainment,M,,,,USA
+1905,G. Gnanalingam,78,Logistics,M,,,,MYS
+1905,Esther Grether,87,Fashion & Retail,F,,,,CHE
+1905,Wei Gu,58,Manufacturing,M,,,,CHN
+1905,Patrick Hanrahan,67,Technology,M,,,,USA
+1905,Kenneth Hao,54,Finance & Investments,M,,,,USA
+1905,Jaroslav Hascak & family,53,Finance & Investments,M,,,,SVK
+1905,He Zhenggang,69,Manufacturing,M,,,,CHN
+1905,Niranjan Hiranandani,73,Real Estate,M,,,,IND
+1905,Ho Hung Anh,52,Finance & Investments,M,,,,VNM
+1905,Archie Hwang,70,Technology,M,,,,TWN
+1905,Peter Jackson,61,Media & Entertainment,M,Director,,Film,NZL
+1905,Stephen Jarislowsky,97,Finance & Investments,M,Cofounder and Chairman,,Jarislowsky & Fraser,CAN
+1905,Rajeev Juneja,57,Healthcare,M,,,,IND
+1905,Ramesh Juneja,67,Healthcare,M,,,,IND
+1905,Ke Xiping & family,62,Diversified,M,,,,CHN
+1905,Kim Jun-ki,78,Diversified,M,,,Dongbu Insurance Co. Ltd.,KOR
+1905,Sidney Kimmel,95,Fashion & Retail,M,,,,USA
+1905,Jim Koch,73,Food & Beverage,M,,,,USA
+1905,Raj Kumar,68,Real Estate,M,,,,SGP
+1905,Spiro Latsis & family,76,Diversified,M,,,,CHE
+1905,Peter Leibinger,56,Manufacturing,M,,,,DEU
+1905,Regine Leibinger,60,Manufacturing,F,,,,DEU
+1905,Nicola Leibinger-Kammueller,63,Manufacturing,F,,,,DEU
+1905,Li Jianli,50,Manufacturing,M,,,,CHN
+1905,Li Jiaquan,59,Manufacturing,M,,,,CHN
+1905,Li Rucheng,71,Fashion & Retail,M,,,,CHN
+1905,Li Shui-po,66,Manufacturing,M,,,,CHN
+1905,Scott Lin,90,Technology,M,,,,TWN
+1905,Liu Xiucai & family,66,Manufacturing,M,,,,CHN
+1905,Lu Zhongfang,80,Automotive,F,,,,CHN
+1905,Lu Zongjun,59,Logistics,M,,,,CHN
+1905,Youssef Mansour,77,Diversified,M,,,,EGY
+1905,Bruce Mathieson,79,Real Estate,M,,,,AUS
+1905,Romano Minozzi,88,Diversified,M,,,,ITA
+1905,Greg Mondre,48,Finance & Investments,M,,,,USA
+1905,Mario Moretti Polegato & family,70,Fashion & Retail,M,,,,ITA
+1905,Robert Mouawad,78,Service,M,,,,BHR
+1905,Jerry Moyes & family,79,Logistics,M,,,,USA
+1905,John Ocampo,63,Technology,M,,,,USA
+1905,Stefan Olsson,74,Diversified,M,,,,GBR
+1905,Rubens Ometto Silveira Mello,73,Energy,M,,,,BRA
+1905,Nelson Peltz,80,Finance & Investments,M,Founder,,Trian Fund Management,USA
+1905,David Penaloza Alanis,49,Construction & Engineering,M,,,,MEX
+1905,Karl-Johan Persson,48,Fashion & Retail,M,,,,SWE
+1905,Mike Repole,55,Food & Beverage,M,,,,USA
+1905,Duke Reyes,66,Food & Beverage,M,,,,USA
+1905,Kishin RK,39,Real Estate,M,,,,SGP
+1905,Carlos Rodriguez-Pastor,63,Finance & Investments,M,,,,PER
+1905,Christopher Rokos,52,Finance & Investments,M,CEO & Founder ,,Rokos Capital Management,GBR
+1905,John Ruiz,56,Service,M,,,,USA
+1905,Sheryl Sandberg,53,Technology,F,COO,,Meta Platforms,USA
+1905,Amnon Shashua,62,Automotive,M,,,,ISR
+1905,Ben Silbermann,40,Media & Entertainment,M,Cofounder,,Pinterest,USA
+1905,Ron Sim,64,Fashion & Retail,M,,,,SGP
+1905,Leonid Simanovsky,73,Finance & Investments,M,,,,RUS
+1905,Basudeo Singh,82,Healthcare,M,,,,IND
+1905,Frank Slootman,64,Technology,M,,,,USA
+1905,Terry Snow,79,Real Estate,M,,,,AUS
+1905,Axel Stawski,72,Real Estate,M,,,,USA
+1905,Thomas Steyer,65,Finance & Investments,M,,,,USA
+1905,Sergei Studennikov & family,56,Fashion & Retail,M,,,,RUS
+1905,Su Suyu & family,74,Real Estate,F,,,,CHN
+1905,Kevin Systrom,39,Technology,M,Cofounder,,Instagram,USA
+1905,Tang Binsen,40,Food & Beverage,M,,,,CHN
+1905,Prachak Tangkaravakoon,79,Manufacturing,M,,,,THA
+1905,Jeff Tangney,50,Healthcare,M,CEO,,Doximity,USA
+1905,Yuequn Tao,63,Fashion & Retail,M,,,,CHN
+1905,David Teoh,67,Telecom,M,,,,AUS
+1905,Carmen Thyssen,79,Manufacturing,F,,,,AND
+1905,Tran Ba Duong & family,63,Automotive,M,,,,VNM
+1905,Kenny Troutt,75,Telecom,M,,,,USA
+1905,Jens von Bahr,52,Gambling & Casinos,M,,,,SWE
+1905,Wang Junmin,54,Healthcare,M,,,,CHN
+1905,Weng Xianding,61,Healthcare,M,,,,CHN
+1905,Farris Wilks,71,Energy,M,,,,USA
+1905,Gordon Wu,87,Real Estate,M,,,,HKG
+1905,Xiong Wu,47,Technology,M,,,,CHN
+1905,Xu Zhihan,50,Technology,M,,,,CHN
+1905,Tingdong Yang,62,Food & Beverage,M,,,,CHN
+1905,Michael Minhong Yu,61,Service,M,,,,CHN
+1905,Zhang Bangxin,43,Service,M,,,,CHN
+1905,Zhou Zongwen & family,66,Fashion & Retail,M,,,,CHN
+2020,Antti Aarnio-Wihuri,83,Diversified,M,,,,FIN
+2020,Alberto Alcocer,80,Finance & Investments,M,,,,ESP
+2020,Nigel Austin,52,Fashion & Retail,M,,,,AUS
+2020,Binny Bansal,40,Technology,M,,,,SGP
+2020,Girdhari Lal Bawri,75,Healthcare,M,,,,IND
+2020,John Bloor,79,Diversified,M,,,,GBR
+2020,Vladimir Bogdanov,71,Energy,M,,,,RUS
+2020,Amit Burman,53,Food & Beverage,M,,,,IND
+2020,Cai Jianyong,52,Metals & Mining,M,,,,CHN
+2020,Steve Case,64,Technology,M,,,,USA
+2020,Chen Wenyuan & family,55,Technology,M,,,,CHN
+2020,Chua Thian Poh,74,Real Estate,M,,,,SGP
+2020,Sasson Dayan & family,83,Finance & Investments,M,,,,BRA
+2020,Chris Ellison,65,Metals & Mining,M,,,,AUS
+2020,John Farber,97,Manufacturing,M,Dr.,,,USA
+2020,J. Christopher Flowers,65,Finance & Investments,M,Founder and Managing Director,,J.C. Flowers & Co. LLC,USA
+2020,Reinold Geiger,75,Fashion & Retail,M,,,,CHE
+2020,Ali Ghodsi,44,Technology,M,,,,USA
+2020,Lance Gokongwei,55,Diversified,M,,,,PHL
+2020,Guan Yihong,53,Food & Beverage,M,,,,CHN
+2020,Rajinder Gupta,64,Manufacturing,M,,,,IND
+2020,Torstein Hagen,80,Service,M,,,,CHE
+2020,Alfredo Harp Helu & family,79,Finance & Investments,M,,,,MEX
+2020,He Xiaopeng,45,Automotive,M,,,,CHN
+2020,Christoph Henkel,65,Fashion & Retail,M,,,,GBR
+2020,Daniel Hirschfeld,81,Fashion & Retail,M,,,,USA
+2020,Drew Houston,40,Technology,M,CEO,,Dropbox,USA
+2020,Huang Jinxiang & family,58,Manufacturing,M,,,,CHN
+2020,Rameshchandra Jain,74,Manufacturing,M,,,,IND
+2020,Ke Zunhong & family,68,Healthcare,M,,,,CHN
+2020,Kim Taek-jin,56,Media & Entertainment,M,,,NCSOFT Corporation,KOR
+2020,Koh Wee Meng,59,Real Estate,M,,,,SGP
+2020,Sergei Kolesnikov,51,Manufacturing,M,,,,RUS
+2020,Hemendra Kothari,76,Finance & Investments,M,,,,IND
+2020,Sebastian Kulczyk,42,Finance & Investments,M,,,,CHE
+2020,Kwee Liong Keng,77,Real Estate,M,,,,SGP
+2020,Kwee Liong Phing,65,Real Estate,M,,,,SGP
+2020,Kwee Liong Seen,70,Real Estate,M,,,,SGP
+2020,Kwee Liong Tek,76,Real Estate,M,,,,SGP
+2020,Kwek Leng Keow,71,Diversified,M,,,,SGP
+2020,Kwek Leng Peck,67,Diversified,M,,,,SGP
+2020,Raymond Kwok,69,Real Estate,M,,,,HKG
+2020,Lee Ho-jin,60,Diversified,M,,,Taekwang Industrial,KOR
+2020,Michael Lee-Chin,72,Finance & Investments,M,,,,CAN
+2020,Manfredi Lefebvre d'Ovidio & family,69,Service,M,,,,MCO
+2020,Bernard Lewis & family,97,Fashion & Retail,M,,,,GBR
+2020,William Li,48,Automotive,M,,,,CHN
+2020,Jenny Lindén Urnes,52,Manufacturing,F,,,,SWE
+2020,Liu Fangyi,53,Healthcare,M,,,,CHN
+2020,K.C. Liu,69,Technology,M,,,,TWN
+2020,Liu Ming Chung,60,Manufacturing,M,,,,HKG
+2020,Anatoly Lomakin,70,Metals & Mining,M,,,,RUS
+2020,Brandt Louie,79,Food & Beverage,M,,,,CAN
+2020,Lucia Maggi & family,90,Diversified,F,Philanthropist,,,BRA
+2020,Gary Magness,69,Media & Entertainment,M,,,,USA
+2020,Mao Lixiang & family,82,Technology,M,,,,CHN
+2020,David McMurtry,82,Manufacturing,M,,,,GBR
+2020,Deepak Mehta,66,Manufacturing,M,,,,IND
+2020,Miao Shouliang,68,Real Estate,M,,,,CHN
+2020,Miao Yongjun,55,Healthcare,M,,,,CHN
+2020,Yoshiko Mori,82,Real Estate,F,,,,JPN
+2020,Marius Nacht,57,Technology,M,,,,ISR
+2020,Vadim Novinsky,59,Metals & Mining,M,,,,UKR
+2020,Niti Osathanugrah,49,Finance & Investments,M,,,,THA
+2020,Gretel Packer,57,Finance & Investments,F,,,,AUS
+2020,Pan Longquan,58,Manufacturing,M,,,,CHN
+2020,Pan Shiyi,60,Real Estate,M,,,,CHN
+2020,David Paul,56,Healthcare,M,Founder and Executive Chairman,,Globus Medical,USA
+2020,Tom Persson,38,Fashion & Retail,M,,,,SWE
+2020,Qian Jinghong,50,Automotive,F,,,,CHN
+2020,Qin Long,57,Manufacturing,M,,,,CHN
+2020,M.Satyanarayana Reddy,65,Healthcare,M,,,,IND
+2020,Mochtar Riady & family,93,Diversified,M,,,,IDN
+2020,Rihanna,35,Fashion & Retail,F,Musician,,,USA
+2020,Boris Rotenberg,66,Construction & Engineering,M,,,,RUS
+2020,Subhash Runwal,79,Real Estate,M,,,,IND
+2020,Igor Rybakov,50,Manufacturing,M,,,,RUS
+2020,Carlos Sanchez,61,Healthcare,M,,,,BRA
+2020,Martin Selig,85,Real Estate,M,,,,USA
+2020,Airat Shaimiev,61,Energy,M,,,,RUS
+2020,Radik Shaimiev,58,Energy,M,,,,RUS
+2020,Nobutoshi Shimamura,97,Fashion & Retail,M,,,,JPN
+2020,Jared Smith,48,Technology,M,,,,USA
+2020,Charlotte Soderstrom,46,Fashion & Retail,F,,,,SWE
+2020,Anand Surana,52,Healthcare,M,,,,IND
+2020,Dilip Surana,57,Healthcare,M,,,,IND
+2020,Wilma Tisch,95,Finance & Investments,F,,,,USA
+2020,Jianyi Wang,60,Technology,M,,,,CHN
+2020,Wang Jilei,58,Logistics,M,,,,CHN
+2020,Shuifu Wang,68,Manufacturing,M,,,,CHN
+2020,Wang Yanqing & family,76,Manufacturing,F,,,,CHN
+2020,Wang Zelong,26,Metals & Mining,M,,,,CHN
+2020,Werner O. Weber,84,Manufacturing,M,,,,CHE
+2020,Anne Werninghaus,37,Manufacturing,F,,,,BRA
+2020,"Alfred West, Jr.",80,Finance & Investments,M,,,,USA
+2020,Bo Wu,68,Manufacturing,M,,,,CHN
+2020,Wu Chaoqun,53,Manufacturing,M,,,,CHN
+2020,Swift Xie,43,Technology,M,Chief Marketing Officer,,DJI Technology Co.,CHN
+2020,Xu Guozhong & family,59,Manufacturing,M,,,,CHN
+2020,Yao Kuizhang,58,Food & Beverage,M,,,,CHN
+2020,Yu Peidi,63,Real Estate,M,,,,CHN
+2020,Yuan Liping,52,Healthcare,F,,,,CHN
+2020,Zhang Chuanwei & family,60,Manufacturing,M,,,,CHN
+2020,Zhang Keqiang,62,Real Estate,M,,,,CHN
+2020,Zhang Xin,57,Real Estate,F,"Cofounder, CEO",,SOHO China,CHN
+2020,Xinghai Zhang & family,60,Manufacturing,M,,,,CHN
+2020,Zheng Jianjiang & family,62,Manufacturing,M,,,,CHN
+2020,Zhong Sheng Jian,65,Real Estate,M,,,,SGP
+2020,Zhou Chengjian,57,Fashion & Retail,M,,,,CHN
+2020,Boris Zingarevich,63,Diversified,M,,,,RUS
+2133,A. Jayson Adair,53,Automotive,M,,,,USA
+2133,Soegiarto Adikoesoemo,85,Logistics,M,,,,IDN
+2133,Rajendra Agarwal,64,Healthcare,M,,,,IND
+2133,Chirayu Amin,76,Healthcare,M,,,,IND
+2133,Anant Asavabhokhin,72,Real Estate,M,,,,THA
+2133,Roman Avdeev,55,Finance & Investments,M,,,,RUS
+2133,Ziv Aviram,64,Automotive,M,,,,ISR
+2133,Sachin Bansal,41,Fashion & Retail,M,,,,IND
+2133,Kiki Barki,83,Energy,M,,,,IDN
+2133,Elena Baturina,60,Construction & Engineering,F,,,,GBR
+2133,Banwari Lal Bawri,70,Healthcare,M,,,,IND
+2133,Othman Benjelloun & family,90,Finance & Investments,M,,,,MAR
+2133,Hari Bhartia,66,Diversified,M,,,,IND
+2133,Shyam Bhartia,70,Healthcare,M,,,,IND
+2133,Stewart Butterfield,50,Technology,M,Cofounder and CEO,,Slack,USA
+2133,Cai Mingtong,71,Technology,M,,,,CHN
+2133,Anthony Casalena,40,Technology,M,,,,USA
+2133,Chang Jianming & family,58,Manufacturing,M,,,,CHN
+2133,Richard Chang,76,Real Estate,M,,,,TWN
+2133,Chen Xuehua,62,Metals & Mining,M,,,,CHN
+2133,Chen Yin,50,Manufacturing,M,,,,CHN
+2133,Chin Jong Hwa,64,Automotive,M,,,,TWN
+2133,R. Marcelo Claure,52,Telecom,M,,,,USA
+2133,Alberto Cortina,77,Finance & Investments,M,,,,ESP
+2133,Eduardo Costantini,76,Real Estate,M,,,,ARG
+2133,Wenjun Dai,54,Food & Beverage,M,,,,CHN
+2133,Anand Deshpande,60,Technology,M,,,,IND
+2133,Aydin Dogan,86,Media & Entertainment,M,,,,TUR
+2133,Annalisa Doris,52,Finance & Investments,F,,,,ITA
+2133,Massimo Doris,55,Finance & Investments,M,,,,ITA
+2133,Weimin Du,59,Healthcare,M,,,,CHN
+2133,Timothy Dunn & family,67,Energy,M,,,,USA
+2133,Keiko Erikawa,74,Media & Entertainment,F,,,,JPN
+2133,Yoichi Erikawa,72,Media & Entertainment,M,,,,JPN
+2133,Philip Fayer,45,Finance & Investments,M,,,,CAN
+2133,Marvy Finger,87,Real Estate,M,,,,USA
+2133,Simona Giorgetta,45,Construction & Engineering,F,,,,ITA
+2133,Joel Greenberg,65,Finance & Investments,M,,,,USA
+2133,He Zhiping,59,Finance & Investments,M,,,,CHN
+2133,Heikki Herlin,36,Manufacturing,M,,,,FIN
+2133,Hoi Kin Hong,70,Real Estate,M,,,,CHN
+2133,Gregg Hymowitz,57,Finance & Investments,M,,,,USA
+2133,Mitchell Jacobson,72,Service,M,,,,USA
+2133,Anurang Jain,61,Manufacturing,M,,,,IND
+2133,Jiang Guiting & family,64,Manufacturing,M,,,,CHN
+2133,Jin Xin,56,Manufacturing,M,,,,CHN
+2133,Conni Jonsson,62,Finance & Investments,M,,,,SWE
+2133,George Joseph,101,Finance & Investments,M,,,,USA
+2133,Laurent Junique,57,Technology,M,,,,SGP
+2133,Zbigniew Juroszek & family,60,Diversified,M,,,,POL
+2133,Alexander Karp,55,Technology,M,Cofounder and CEO,,Palantir Technologies,USA
+2133,Joe Kiani,58,Healthcare,M,Chairman and CEO,,Masimo,USA
+2133,Seth Klarman,65,Finance & Investments,M,Investor,,Baupost Group,USA
+2133,Kagemasa Kozuki,82,Technology,M,,,,JPN
+2133,Michael Krasny,69,Technology,M,Investor,,Sawdust Investment Management Corp.,USA
+2133,Eduard Kucera,70,Technology,M,,,,CZE
+2133,Kristo Käärmann,42,Finance & Investments,M,Cofounder,,Wise,GBR
+2133,Gary Lauder,60,Fashion & Retail,M,,,,USA
+2133,Lee Hae-jin,55,Technology,M,,,NAVER Corp.,KOR
+2133,Art Levinson,73,Diversified,M,,,,USA
+2133,Li Denghai,73,Food & Beverage,M,,,,CHN
+2133,Fengluan Li,61,Diversified,F,,,,CHN
+2133,Li Yongqing,58,Manufacturing,M,,,,CHN
+2133,Li Zhigang,46,Manufacturing,M,,,,CHN
+2133,Liu Gexin & family,71,Healthcare,M,,,,CHN
+2133,Itamar Locks & family,68,Food & Beverage,M,,,,BRA
+2133,Lu Hongyan,45,Media & Entertainment,M,,,,CHN
+2133,Lv Jianming,58,Healthcare,M,,,,CHN
+2133,Blairo Maggi,66,Food & Beverage,M,,,,BRA
+2133,Yasseen Mansour,61,Diversified,M,,,,EGY
+2133,George Marcus,81,Real Estate,M,,,,USA
+2133,Carsten Maschmeyer,63,Finance & Investments,M,,,,DEU
+2133,Martin Moller Nielsen,58,Logistics,M,,,,CHE
+2133,Jahm Najafi,60,Finance & Investments,M,,,,USA
+2133,Randal Nardone,67,Finance & Investments,M,,,,USA
+2133,Nguyen Dang Quang,59,Food & Beverage,M,,,,VNM
+2133,Kazuo Okada,80,Gambling & Casinos,M,,,,JPN
+2133,John Oyler,55,Healthcare,M,,,,USA
+2133,George Pedersen & family,87,Manufacturing,M,,,,USA
+2133,Qu Miranda,38,Fashion & Retail,F,,,,CHN
+2133,Jupally Rameshwar Rao,67,Real Estate,M,,,,IND
+2133,G. M. Rao,72,Logistics,M,,,,IND
+2133,P.V. Ramprasad Reddy,65,Healthcare,M,,,,IND
+2133,Satish Reddy,55,Healthcare,M,,,,IND
+2133,Fernando Roig,75,Fashion & Retail,M,,,,ESP
+2133,Igor Rotenberg,49,Diversified,M,,,,RUS
+2133,Seifeddin Rustamov,60,Manufacturing,M,,,,USA
+2133,Deniz Sahenk,77,Diversified,F,,,,TUR
+2133,Nobutada Saji,77,Food & Beverage,M,,,,JPN
+2133,Hajime Satomi,81,Gambling & Casinos,M,,,,JPN
+2133,James Scapa,66,Technology,M,,,,USA
+2133,Devi Shetty,70,Healthcare,M,,,,IND
+2133,Albert Shigaboutdinov,70,Diversified,M,,,,RUS
+2133,Denis Shtengelov,50,Food & Beverage,M,,,,AUS
+2133,Fei Song,56,Manufacturing,M,,,,CHN
+2133,Hal Steinbrenner,54,Sports,M,,,,USA
+2133,Jessica Steinbrenner,59,Sports,F,,,,USA
+2133,Jennifer Steinbrenner Swindal,63,Sports,F,,,,USA
+2133,Konstantin Strukov & family,64,Metals & Mining,M,,,,RUS
+2133,Rustem Sulteev,69,Energy,M,,,,RUS
+2133,Clemens Toennies,66,Food & Beverage,M,,,,DEU
+2133,Robert Toennies,44,Food & Beverage,M,,,,DEU
+2133,John Van Lieshout,77,Real Estate,M,,,,AUS
+2133,Pongsak Viddayakorn,89,Healthcare,M,,,,THA
+2133,Wang Jianguo,63,Fashion & Retail,M,,,,CHN
+2133,Junjin Wang,54,Service,M,,,,CHN
+2133,Wang Mingwang,55,Manufacturing,M,,,,CHN
+2133,Wei Lidong & family,47,Technology,M,,,,CHN
+2133,Myron Wentz,83,Fashion & Retail,M,,,,CYM
+2133,Wu Xiaoge,50,Manufacturing,F,,,,CHN
+2133,Wu Xushun & family,74,Diversified,M,,,,CHN
+2133,Xiong Xiaochuan,57,Healthcare,M,,,,CHN
+2133,Xu Shaochun,60,Technology,M,,,,CHN
+2133,Yan Jane & family,53,Technology,F,,,,CHN
+2133,Zeng Chaoyi,54,Manufacturing,M,,,,CHN
+2133,Peng Zhao,52,Service,M,,,,CHN
+2133,Zhao Tongtong,56,Service,F,,,,HKG
+2133,Kostyantin Zhevago,49,Metals & Mining,M,,,,UKR
+2259,Sanjay Agarwal,52,Finance & Investments,M,,,,IND
+2259,Hamad bin Jassim bin Jaber Al Thani,63,Finance & Investments,M,,,,QAT
+2259,Joao Alves de Queiroz Filho,70,Diversified,M,,,,BRA
+2259,Jose Maria Aristrain,60,Metals & Mining,M,,,,CHE
+2259,Michael Arougheti,50,Finance & Investments,M,,,,USA
+2259,Tope Awotona,41,Technology,M,,,Calendly,USA
+2259,Mehmet Aydinlar,66,Healthcare,M,,,,TUR
+2259,Danna Azrieli,55,Real Estate,F,,,,ISR
+2259,Naomi Azrieli,57,Real Estate,F,,,,CAN
+2259,Sharon Azrieli,62,Real Estate,F,,,,CAN
+2259,Bai Houshan,59,Energy,M,,,,CHN
+2259,Thomas Bailey,86,Finance & Investments,M,,,,USA
+2259,Bernhard Braun-Luedicke,46,Healthcare,M,,,,DEU
+2259,Eva Maria Braun-Luedicke,36,Healthcare,F,,,,DEU
+2259,Friederike Braun-Luedicke,39,Healthcare,F,,,,DEU
+2259,Jeffrey Cheah,78,Real Estate,M,,,,MYS
+2259,Chen Xianbao & family,63,Food & Beverage,M,,,,CHN
+2259,Cheng Xianfeng,54,Healthcare,M,,,,CHN
+2259,Chung Yong-jin,54,Fashion & Retail,M,,,Shinsegae,KOR
+2259,Darwin Deason,82,Service,M,,,,USA
+2259,Diego Della Valle,69,Fashion & Retail,M,,,,ITA
+2259,Ashwin Desai,71,Manufacturing,M,,,,IND
+2259,Richard Desmond,71,Media & Entertainment,M,,,,GBR
+2259,Ding Shui Po,52,Fashion & Retail,M,,,,CHN
+2259,Sefik Yilmaz Dizdar,85,Fashion & Retail,M,,,,TUR
+2259,Mathias Doepfner,60,Media & Entertainment,M,,,,DEU
+2259,Farhad Ebrahimi,84,Manufacturing,M,,,,USA
+2259,Jose Roberto Ermirio de Moraes,65,Diversified,M,,,,BRA
+2259,Jose Ermirio de Moraes Neto,70,Diversified,M,,,,BRA
+2259,Fang Hongbo,56,Manufacturing,M,,,,CHN
+2259,David Feffer,66,Manufacturing,M,,,,BRA
+2259,Zsolt Felcsuti,51,Manufacturing,M,,,,HUN
+2259,Ben Francis,30,Fashion & Retail,M,,,,GBR
+2259,Gary Friedman,65,Fashion & Retail,M,,,,USA
+2259,Dan Gertler,49,Metals & Mining,M,,,,ISR
+2259,Balkrishan Goenka,56,Manufacturing,M,,,,IND
+2259,Lawrence Golub,63,Finance & Investments,M,Investor,,,USA
+2259,Saroj Rani Gupta,72,Manufacturing,F,,,,IND
+2259,Anthony Hall,67,Technology,M,,,,AUS
+2259,Fahed Hariri,42,Construction & Engineering,M,,,,GBR
+2259,Richard Hayne,75,Fashion & Retail,M,"Chairman, President & Chief Executive Officer",,Urban Outfitters Inc.,USA
+2259,Michael Heine,73,Finance & Investments,M,,,,AUS
+2259,Orion Hindawi,43,Technology,M,CEO,,Tanium,USA
+2259,Lawrence Ho,46,Gambling & Casinos,M,,,,HKG
+2259,Huang Guanlin,58,Fashion & Retail,M,,,,CHN
+2259,Sam Hupert,68,Technology,M,,,,AUS
+2259,Mohammed Ibrahim,76,Telecom,M,Founder,,Mo Ibrahim Foundation,GBR
+2259,Shirley Kao,66,Food & Beverage,F,,,,TWN
+2259,David Kaplan,55,Finance & Investments,M,,,,USA
+2259,Kim Kardashian,42,Fashion & Retail,F,Personality,,,USA
+2259,Ke Guihua,57,Manufacturing,M,,,,CHN
+2259,Ke Yunfeng & family,56,Healthcare,M,,,,CHN
+2259,Alexander Klyachin,55,Real Estate,M,,,,RUS
+2259,Suresh Krishna,86,Automotive,M,,,,IND
+2259,Guy Laliberté,63,Media & Entertainment,M,Cofounder and CEO,,Cirque du Soleil,CAN
+2259,Lee Su-jin,45,Technology,M,,,,KOR
+2259,Li Guoqing,53,Manufacturing,M,,,,CHN
+2259,Li Li,59,Healthcare,M,,,,CHN
+2259,Li Ruiqiang,43,Healthcare,M,,,,CHN
+2259,Zhen Li & family,59,Manufacturing,M,,,,CHN
+2259,Guangwei Liang,59,Manufacturing,M,,,,CHN
+2259,Liu Ming Hui,60,Energy,M,,,,HKG
+2259,Frederic Luddy,68,Technology,M,Founder and Chief Product Officer,,ServiceNow,USA
+2259,"Cargill MacMillan, III.",63,Food & Beverage,M,,,,USA
+2259,John MacMillan,73,Food & Beverage,M,,,,USA
+2259,Martha MacMillan,71,Food & Beverage,F,,,,USA
+2259,William MacMillan,68,Food & Beverage,M,,,,USA
+2259,Keshub Mahindra,99,Diversified,M,,,,IND
+2259,Mao Zhongwu,60,Manufacturing,M,,,,CHN
+2259,Jorge Mas,60,Construction & Engineering,M,,,,USA
+2259,Lorinc Meszaros,57,Diversified,M,,,,HUN
+2259,Jeffrey Michael & family,66,Technology,M,,,,USA
+2259,Alan Miller & family,85,Healthcare,M,,,,USA
+2259,Neide Helena de Moraes,68,Diversified,F,,,,BRA
+2259,Scott Nuttall,50,Finance & Investments,M,,,,USA
+2259,Axel Oberwelland & family,56,Food & Beverage,M,,,,DEU
+2259,Jonathan Oringer,48,Technology,M,,,,USA
+2259,Vitaly Orlov,58,Food & Beverage,M,,,,RUS
+2259,Jose Isaac Peres & family,82,Real Estate,M,,,,BRA
+2259,Markus Persson,43,Media & Entertainment,M,,,,SWE
+2259,Mark Pincus,57,Technology,M,Chairman,,Zynga Inc,USA
+2259,Murdaya Poo,82,Diversified,M,,,,IDN
+2259,Forrest Preston,90,Healthcare,M,,,,USA
+2259,Qian Ying,57,Food & Beverage,F,,,,CHN
+2259,Jimmy Rane,76,Manufacturing,M,,,,USA
+2259,Andrei Rappoport,59,Finance & Investments,M,,,,CHE
+2259,Bennett Rosenthal,59,Finance & Investments,M,,,,USA
+2259,Atul Ruia,52,Real Estate,M,,,,IND
+2259,Thomas Sandell,62,Finance & Investments,M,Founder,,Sandell Asset Management,GBR
+2259,Dhruv Sawhney,78,Construction & Engineering,M,,,,ARE
+2259,Gerald Schwartz,81,Finance & Investments,M,,,,CAN
+2259,Antonio Luiz Seabra,80,Fashion & Retail,M,,,,GBR
+2259,Eric Ya Shen,52,Technology,M,,,,CHN
+2259,Sytse 'Sid' Sijbrandij,43,Technology,M,,,,USA
+2259,Alexander Sixt,43,Automotive,M,,,,DEU
+2259,Konstantin Sixt,40,Automotive,M,,,,DEU
+2259,Edwin Soeryadjaya,73,Energy,M,,,,IDN
+2259,Abhay Soi,49,Healthcare,M,,,,IND
+2259,Mike Speiser,52,Technology,M,Managing Director,,Sutter Hill Ventures,GBR
+2259,Marco Squinzi,51,Construction & Engineering,M,,,,ITA
+2259,Veronica Squinzi,51,Construction & Engineering,F,,,,ITA
+2259,Michael Steinhardt,82,Finance & Investments,M,,,,USA
+2259,Ion Stoica,58,Technology,M,,,,USA
+2259,Eddy Sugianto,77,Metals & Mining,M,,,,IDN
+2259,Luc Tack,61,Manufacturing,M,,,,BEL
+2259,Tony Tan Caktiong,70,Food & Beverage,M,,,,PHL
+2259,Xiuguo Tang,59,Manufacturing,M,,,,CHN
+2259,Sam Tarascio,78,Real Estate,M,,,,AUS
+2259,Lina Tombolato,75,Finance & Investments,F,,,,ITA
+2259,Ching Bor Tung,60,Manufacturing,M,,,,CHN
+2259,Joop van den Ende,81,Media & Entertainment,M,,,,NLD
+2259,Ruben Vardanyan & family,54,Finance & Investments,M,,,,ARM
+2259,Sandro Veronesi & family,63,Fashion & Retail,M,,,,ITA
+2259,Thongma Vijitpongpun,65,Real Estate,M,,,,THA
+2259,Thomas von Koch,57,Finance & Investments,M,,,,HKG
+2259,Wang Shih-Chung,61,Manufacturing,M,,,,TWN
+2259,Wang Xiaoshen,54,Manufacturing,M,,,,CHN
+2259,J. Wayne Weaver,87,Diversified,M,,,,USA
+2259,Drorit Wertheim,67,Food & Beverage,F,,,,ISR
+2259,Cameron Winklevoss,41,Finance & Investments,M,,,,USA
+2259,Tyler Winklevoss,41,Finance & Investments,M,,,,USA
+2259,Wu Chung-yi,67,Manufacturing,M,,,,TWN
+2259,Eugene Wu,77,Finance & Investments,M,,,,TWN
+2259,Wu Yonghua,52,Fashion & Retail,M,,,,CHN
+2259,Xia Xinde,58,Manufacturing,M,,,,CHN
+2259,Wenbo Xiang,60,Manufacturing,M,,,,CHN
+2259,Xu Jin,58,Food & Beverage,M,,,,CHN
+2259,Xu Shijun & family,60,Manufacturing,M,,,,CHN
+2259,Wanmao Xu,78,Service,M,,,,CHN
+2259,Xu Yuejuan,61,Manufacturing,F,,,,CHN
+2259,Vadim Yakunin,60,Healthcare,M,,,,RUS
+2259,Yang Yunyun,46,Fashion & Retail,F,,,,CHN
+2259,Matei Zaharia,37,Technology,M,,,,USA
+2259,Zan Shengda,60,Diversified,M,,,,CHN
+2259,Zhang Xuezheng,47,Technology,M,,,,CHN
+2259,Zhang Yin,66,Manufacturing,F,,,,CHN
+2259,Ning Zhao,56,Healthcare,F,,,,CHN
+2259,Zhou Wen & family,58,Manufacturing,M,,,,CHN
+2259,Zhu Xingliang,63,Construction & Engineering,M,,,,CHN
+2405,Hari Krishan Agarwal,66,Fashion & Retail,M,,,,IND
+2405,Farkhad Akhmedov,67,Energy,M,,,,RUS
+2405,Joseph Bae,51,Finance & Investments,M,,,,USA
+2405,Abigail Bennett,42,Food & Beverage,F,,,,USA
+2405,Sara Blakely,52,Fashion & Retail,F,Founder,,Spanx,USA
+2405,Lloyd Blankfein,68,Finance & Investments,M,CEO,,Goldman Sachs Group,USA
+2405,Henadiy Boholyubov,61,Diversified,M,,,,UKR
+2405,Stephane Bonvin,56,Real Estate,M,,,,CHE
+2405,Oleg Boyko,58,Diversified,M,,,,CHE
+2405,Ryan Breslow,28,Technology,M,Cofounder,,Bolt,USA
+2405,Thomas Bruch,72,Fashion & Retail,M,,,,DEU
+2405,Marina Budiman,61,Technology,F,,,,IDN
+2405,Pradip Burman,80,Food & Beverage,M,,,,IND
+2405,Cao Kejian,60,Manufacturing,M,,,,CHN
+2405,Giuliana Caprotti,82,Food & Beverage,F,,,,ITA
+2405,Marina Caprotti,45,Food & Beverage,F,,,,ITA
+2405,Chang Jing,40,Technology,M,,,,CHN
+2405,Chen Baohua,61,Healthcare,M,,,,CHN
+2405,Gang Chen,55,Energy,M,,,,CHN
+2405,Liying Chen,47,Logistics,F,,,,CHN
+2405,Tony Chen,73,Technology,M,,,,TWN
+2405,Chen Xueling,55,Manufacturing,F,,,,CHN
+2405,Cheng Lili,58,Food & Beverage,M,,,,CHN
+2405,Weili Dai,61,Technology,F,Cofounder-President,,Marvell Technology Group Ltd.,USA
+2405,Deng Yingzhong,72,Manufacturing,M,,,,CHN
+2405,Shlomo Eliahu,87,Finance & Investments,M,,,,ISR
+2405,Henry Engelhardt,65,Finance & Investments,M,Chief Executive Officer,,Admiral Group ,GBR
+2405,Gabriel Escarrer,88,Service,M,,,,ESP
+2405,Daniel Feffer,63,Manufacturing,M,,,,BRA
+2405,Ruben Feffer,53,Manufacturing,M,,,,BRA
+2405,Gleb Fetisov,56,Telecom,M,,,,CYP
+2405,Paul Fireman,79,Fashion & Retail,M,,,,USA
+2405,Robert Fisher,69,Fashion & Retail,M,Chairman of the Board,,Gap Inc.,USA
+2405,Bernd Freier,66,Fashion & Retail,M,,,,DEU
+2405,Donald Friese,82,Manufacturing,M,,,,USA
+2405,Gan Zhongru,74,Healthcare,M,,,,CHN
+2405,Rahul Gautam,70,Fashion & Retail,M,,,,IND
+2405,David Golub,60,Finance & Investments,M,Investor,,,USA
+2405,Pavel Golubkov,47,Real Estate,M,,,,RUS
+2405,Said Gutseriev,34,Energy,M,,,,GBR
+2405,Polys Haji-Ioannou,63,Service,M,,,,MCO
+2405,He Zuxun,57,Food & Beverage,M,,,,CHN
+2405,David Hindawi,78,Technology,M,Executive Chairman,,Tanium,USA
+2405,Huang Shan,52,Technology,M,,,,CHN
+2405,Huang Xiaofen & family,61,Technology,F,,,,CHN
+2405,Hiroshi Ishibashi,76,Automotive,M,,,,JPN
+2405,Masayuki Ishihara,74,Gambling & Casinos,M,,,,JPN
+2405,Chatchai Kaewbootta,71,Finance & Investments,M,,,,THA
+2405,Nikhil Kamath,36,Finance & Investments,M,,,,IND
+2405,Jonas Kamprad,57,Finance & Investments,M,,,,GBR
+2405,Mathias Kamprad,53,Finance & Investments,M,,,,GBR
+2405,Peter Kamprad,59,Finance & Investments,M,,,,BEL
+2405,Fumio Kaneko,66,Service,M,,,,JPN
+2405,Sunjay Kapur,51,Automotive,M,,,,IND
+2405,Ali Metin Kazanci,88,Energy,M,,,,TUR
+2405,Kangbao Ke & family,60,Healthcare,M,,,,CHN
+2405,Carsten Koerl,58,Sports,M,"Entrepreneur, Investor",,,CHE
+2405,Koo Bon-sik,64,Technology,M,,,Heesung,KOR
+2405,Andrei Kosogov,62,Energy,M,,,,RUS
+2405,Yogesh Kothari,74,Manufacturing,M,,,,IND
+2405,Arvind Lal,73,Healthcare,M,,,,IND
+2405,Manuel Lao Hernández,78,Gambling & Casinos,M,,,,ESP
+2405,Lee Joong-keun,82,Construction & Engineering,M,,,Booyoung Group,KOR
+2405,Nancy Lerner,62,Finance & Investments,F,,,,USA
+2405,Norma Lerner,87,Finance & Investments,F,,,,USA
+2405,Randolph Lerner,61,Finance & Investments,M,,,,USA
+2405,Lin Zhijun,47,Healthcare,M,,,,CHN
+2405,Lin Zhixiong & family,49,Healthcare,M,,,,CHN
+2405,Jeffrey Lorberbaum,68,Manufacturing,M,,,,USA
+2405,Lu Rongfu,52,Telecom,M,,,,CHN
+2405,Lyu Yixiong,60,Fashion & Retail,M,,,,CHN
+2405,Soichiro Minami,46,Technology,M,,,,JPN
+2405,Pawan Munjal,68,Automotive,M,,,,IND
+2405,Renu Munjal,68,Automotive,F,,,,IND
+2405,Suman Munjal,70,Automotive,M,,,,IND
+2405,Dmitry Nikolaev,56,Energy,M,,,,RUS
+2405,Sjamsul Nursalim,81,Automotive,M,,,,SGP
+2405,Adrian Paval,54,Fashion & Retail,M,,,,ROU
+2405,Antonio Percassi,69,Diversified,M,,,,ITA
+2405,Kevin Plank,50,Fashion & Retail,M,Chairman and CEO,,Under Armour,USA
+2405,G.V. Prasad,62,Healthcare,M,,,,IND
+2405,Pu Zhongjie & family,60,Healthcare,M,,,,CHN
+2405,Rao Wei & family,58,Healthcare,M,,,,CHN
+2405,Helena Revoredo,76,Service,F,,,,ESP
+2405,Matthew Roszak,50,Finance & Investments,M,,,,USA
+2405,Paul Sciarra,42,Technology,M,,,,USA
+2405,Rajesh Sharma,53,Finance & Investments,M,,,,IND
+2405,Dean Solon,58,Energy,M,,,,USA
+2405,Michael Spencer,67,Finance & Investments,M,,,,GBR
+2405,Joseph Steinberg,79,Finance & Investments,M,,,,USA
+2405,Zachary Stern,41,Food & Beverage,M,,,,USA
+2405,Manny Stul,73,Manufacturing,M,,,,AUS
+2405,Sun Hongjun,49,Technology,M,,,,CHN
+2405,Sun Weijie,59,Manufacturing,M,,,,CHN
+2405,Sehat Sutardja,61,Technology,M,,,,USA
+2405,Min-Liang Tan,45,Media & Entertainment,M,,,,SGP
+2405,Tan Yu Yeh,52,Fashion & Retail,M,,,,MYS
+2405,Tang Aoqi & family,77,Automotive,M,,,,CHN
+2405,Vonnarat Tangkaravakoon,51,Manufacturing,M,,,,THA
+2405,Tsao Ter-fung,76,Food & Beverage,M,,,,TWN
+2405,Tung Ching Sai,58,Manufacturing,M,,,,CHN
+2405,Arkady Volozh,59,Technology,M,,,,ISR
+2405,Peter-Alexander Wacker,71,Manufacturing,M,,,,DEU
+2405,Wan Long,82,Food & Beverage,M,,,,CHN
+2405,Wang Han,35,Diversified,M,,,,CHN
+2405,Lars Wingefors,46,Media & Entertainment,M,,,,SWE
+2405,Allan Wong,73,Manufacturing,M,,,,HKG
+2405,Tiger Woods,47,Sports,M,Athlete,,PGA,USA
+2405,Horst Wortmann,81,Fashion & Retail,M,,,,DEU
+2405,Wu Kaiting,53,Telecom,M,,,,CHN
+2405,Wu Li-gann,82,Manufacturing,M,,,,TWN
+2405,Wu Xiangdong,54,Food & Beverage,M,,,,CHN
+2405,Xiu Laigui,68,Healthcare,M,,,,CHN
+2405,Xu Jiangnan,61,Healthcare,M,,,,CHN
+2405,Xue Jiping,72,Telecom,M,,,,CHN
+2405,Yao Hsiao Tung,83,Manufacturing,M,,,,SGP
+2405,Ye Qiongjiu,68,Technology,F,,,,CHN
+2405,Yanqiao Ye,53,Food & Beverage,M,,,,CHN
+2405,Yu Faxiang,51,Media & Entertainment,M,,,,CHN
+2405,Zeng Chaolin,40,Metals & Mining,M,,,,CHN
+2405,Kapeng Zhang,58,Construction & Engineering,M,,,,CHN
+2405,Zhang Xuansong,51,Fashion & Retail,M,,,,CHN
+2405,Zhang Xuewu,48,Food & Beverage,M,,,,CHN
+2405,Zhu Yiming,50,Technology,M,,,,CHN
+2405,Zhu Zhaojiang,49,Manufacturing,M,,,,CHN
+2405,Zhuo Jun,57,Manufacturing,F,,,,HKG
+2540,Manohar Lal Agarwal,68,Food & Beverage,M,,,,IND
+2540,Christian Angermayer,44,Finance & Investments,M,,,,GBR
+2540,Ryuji Arai,76,Fashion & Retail,M,,,,JPN
+2540,Anna Maria Braun,44,Healthcare,F,,,,DEU
+2540,Johanna Braun,43,Healthcare,F,,,,DEU
+2540,Karl Friedrich Braun,40,Healthcare,M,,,,DEU
+2540,Ludwig Theodor Braun,33,Healthcare,M,,,,DEU
+2540,Ana Maria Brescia Cafferata,98,Diversified,F,,,,PER
+2540,Jimmy Buffett,76,Media & Entertainment,M,Musician,,,USA
+2540,Hideyuki Busujima,70,Gambling & Casinos,M,,,,JPN
+2540,Chen Jiancheng,64,Manufacturing,M,,,,CHN
+2540,Rui Chen,45,Media & Entertainment,M,,,,CHN
+2540,Chen Shiliang,59,Manufacturing,M,,,,CHN
+2540,Tianqiao Chen,49,Technology,M,,,,USA
+2540,Yuantai Chen,55,Energy,M,,,,CHN
+2540,Cheng Antares,65,Food & Beverage,M,,,,HKG
+2540,Kochouseph Chittilappilly,72,Manufacturing,M,,,,IND
+2540,John Christodoulou,57,Real Estate,M,,,,MCO
+2540,Pollyanna Chu,64,Finance & Investments,F,,,,HKG
+2540,Turgay Ciner,67,Diversified,M,,,,TUR
+2540,Benoit Dageville,56,Technology,M,,,,USA
+2540,Mark Dixon,63,Real Estate,M,,,,MCO
+2540,Du Yulin & family,50,Technology,M,,,,CHN
+2540,Feng Yuxia,58,Healthcare,F,,,,CHN
+2540,Benedicte Find,68,Healthcare,F,,,,DNK
+2540,William Fisher,66,Fashion & Retail,M,Director,,Gap Inc.,USA
+2540,Gao Yunfeng,56,Manufacturing,M,,,,CHN
+2540,Jianming Geng,60,Real Estate,M,,,,CHN
+2540,Sven Hagströmer,79,Finance & Investments,M,,,,SWE
+2540,Clelia Haji-Ioannou,52,Service,F,,,,MCO
+2540,Stelios Haji-Ioannou,56,Service,M,,,,MCO
+2540,Hang Hong,55,Manufacturing,F,,,,CHN
+2540,He Yamin & family,66,Manufacturing,M,,,,CHN
+2540,Ghan Djoe Hiang,79,Energy,F,,,,IDN
+2540,Hong Feng,46,Technology,M,,,,CHN
+2540,Hong Seok-joh,70,Fashion & Retail,M,,,BGF Co. Ltd.,KOR
+2540,Hu Gengxi & family,59,Healthcare,M,,,,CHN
+2540,Danilo Iervolino,45,Technology,M,,,,ITA
+2540,Hedda im Brahm-Droege,68,Finance & Investments,F,,,,DEU
+2540,Inder Jaisinghani,70,Manufacturing,M,,,,IND
+2540,LeBron James,38,Sports,M,Athlete,,NBA,USA
+2540,Morris Kahn,93,Technology,M,,,,ISR
+2540,Ashok Kajaria,75,Manufacturing,M,,,,IND
+2540,Marcelo Kalim,53,Finance & Investments,M,,,,BRA
+2540,Ken Kendrick,79,Sports,M,,,,USA
+2540,Brad Keywell,53,Technology,M,,,,USA
+2540,Muhammed Aziz Khan,68,Energy,M,,,,SGP
+2540,Kim Jung-woong,48,Fashion & Retail,M,,,,KOR
+2540,Ihor Kolomoyskyy,60,Diversified,M,,,,UKR
+2540,Kong Jian Min,55,Real Estate,M,,,,CHN
+2540,Koo Bon-neung,74,Manufacturing,M,,,Heesung Electronics,KOR
+2540,Michael Kum,78,Real Estate,M,,,,SGP
+2540,Richard Kurtz,82,Real Estate,M,,,,USA
+2540,Lev Kvetnoi,57,Finance & Investments,M,,,,RUS
+2540,Michiel Le Roux,73,Finance & Investments,M,,,,ZAF
+2540,Li Wanqiang,45,Technology,M,,,,CHN
+2540,Liu Baolin,69,Fashion & Retail,M,,,,CHN
+2540,Loo Choon Yong,74,Healthcare,M,,,,SGP
+2540,Lu Yonghua & family,59,Technology,M,,,,CHN
+2540,Ma Xiuhui,52,Manufacturing,F,,,,CHN
+2540,Apoorva Mehta,36,Technology,M,Founder,,Instacart,USA
+2540,Ulrike Meister,56,Manufacturing,F,,,,DEU
+2540,Andrei Molchanov,51,Construction & Engineering,M,,,,RUS
+2540,Fulvio Montipò & family,78,Manufacturing,M,,,,ITA
+2540,Tyler Perry,53,Media & Entertainment,M,Director,,Television,USA
+2540,Vera Rechulski Santo Domingo,74,Food & Beverage,F,,,,BMU
+2540,George Sakellaris,76,Energy,M,,,,USA
+2540,Eddy Kusnadi Sariaatmadja,69,Media & Entertainment,M,,,,IDN
+2540,Neerja Sethi,68,Technology,F,,,,USA
+2540,Scott Smith,73,Technology,M,,,,USA
+2540,Ivan Streshinsky,53,Diversified,M,,,,RUS
+2540,Sergei Sudarikov,51,Finance & Investments,M,,,,RUS
+2540,Wijono Tanoko,70,Manufacturing,M,,,,IDN
+2540,Haryanto Tjiptodihardjo,59,Manufacturing,M,,,,IDN
+2540,David Tran & family,77,Food & Beverage,M,,,,USA
+2540,Kenzo Tsujimoto,82,Media & Entertainment,M,,,,JPN
+2540,Murat Vargi,75,Telecom,M,,,,TUR
+2540,Shigefumi Wada,70,Technology,M,,,,JPN
+2540,Wan Feng & family,54,Healthcare,M,,,,CHN
+2540,Wang Jianfeng & family,53,Automotive,M,,,,CHN
+2540,V. Prem Watsa,72,Finance & Investments,M,,,,CAN
+2540,Wen Pengcheng & family,60,Food & Beverage,M,,,,CHN
+2540,Toto Wolff,51,Sports,M,,,,MCO
+2540,Xie Bingzheng & family,54,Fashion & Retail,M,,,,CHN
+2540,Xu Gang,59,Manufacturing,M,,,,CHN
+2540,Yan Junxu,53,Manufacturing,M,,,,CHN
+2540,Yi Xianzhong & family,63,Healthcare,M,,,,CHN
+2540,Yu Rong,51,Healthcare,M,,,,CHN
+2540,"Richard Yuengling, Jr.",80,Food & Beverage,M,,,,USA
+2540,Zhang Gongyun,60,Manufacturing,M,,,,CHN
+2540,Zhang Guiping & family,71,Real Estate,M,,,,CHN
+2540,Inigo Zobel,66,Diversified,M,,,,PHL
